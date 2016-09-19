@@ -38,15 +38,19 @@ http://pastebin.com/bJq3e8kS
 
 # FREQUENTLY ASKED QUESTIONS
 Q. Isn't this just a rip-off of Vanguard?
+
 A. Yes, although it's less of an attempt to plagiarize it and more of an attempt to revive it with the addition of custom cards and more finely tuned balancing.
  
 Q. Is there an easy way to check if my Cockatrice deck is Modern legal?
-Yes. In the deck builder, click Deck Editor > Analyze deck on deckstats.net, then scroll to the bottom. It will tell you if your deck is Modern legal or Legacy legal. If it's Legacy legal, you can then scroll through your decklist to find all the cards that are listed as Legacy legal.
+
+A. Yes. In the deck builder, click Deck Editor > Analyze deck on deckstats.net, then scroll to the bottom. It will tell you if your deck is Modern legal or Legacy legal. If it's Legacy legal, you can then scroll through your decklist to find all the cards that are listed as Legacy legal.
  
 Q. Does Velan gain life when her creatures damage an opponent?
+
 A. Yes. Damage counts as life loss (although life loss does not count as damage).
  
 Q. Where does Deus summon his other Adversaries from?
+
 A. They are placed in the sideboard.
 
 # GENERAL BANLIST (Adversary uses the official Modern banlist.)
