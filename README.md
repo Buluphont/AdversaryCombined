@@ -29,7 +29,7 @@ Besides searching for their names, you can also use a Filtered search in Cockatr
 - RULE THREE: All players have one free mulligan (a free mulligan means drawing a new starting hand without reducing your starting hand size).
 - RULE FOUR: Decks should be exactly 61 cards in size, including your Adversary, but this is only a softrule.
 - RULE FIVE: Do not build your deck specifically to exploit infinite combos. The punishment for breaking this rule is simply making everyone stop playing with you, because it can get annoying.
-- RULE SIX: The format is Legacy Singleton, pending reconsideration.
+- RULE SIX: The format is Modern Singleton.
  
 - COMPREHENSIVE RULES
 http://pastebin.com/bJq3e8kS
