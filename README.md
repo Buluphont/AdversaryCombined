@@ -20,6 +20,9 @@ Base Set + MSE-ADV + MSE-ADV2, for easy consumption.
 # Not sure how to find Adversaries once you've got them downloaded?
 Besides searching for their names, you can also use a Filtered search in Cockatrice. Search for the 'Adversary' card type, or the set name of your chosen packs.
 
+# Anatomy of an Adversary
+![Anatomy of an Adversary](http://i.imgur.com/2MWbU30.png)
+
 # BASIC RULES LIST
 - RULE ONE: Adversaries are not permanents, but they can still tap for convenience.
 - RULE TWO: An Adversary's starting hand size is also considered their maximum hand size.
