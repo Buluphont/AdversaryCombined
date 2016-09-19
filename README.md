@@ -1,7 +1,7 @@
 # AdversaryCombined
 Base Set + MSE-ADV + MSE-ADV2, for easy consumption.
 
-# To Install
+# To Install or Update
 1. [Download the latest release here](https://github.com/Buluphont/AdversaryCombined/releases). They're marked as *source code*, but don't worry about that -- no code involved at all.
 
 2. On Windows, move the downloaded .zip into `C:\Users\YOURNAME\AppData\Local\Cockatrice`. For other platforms (or if you happen to have installed it elsewhere), move it to wherever Cockatrice is installed.
