@@ -1,15 +1,24 @@
+# OSX stuff
 .DS_Store
-cards.xml
+
+# Default Cockatrice folders
 decks/
 settings/
 replays/
 decks/
+
+# Dangling files in Cockatrice root folder
+cards.xml
 tokens.xml
 Adversary Version.txt
+
+# Exclude everything inside pics/downloadedPics, except...
 !pics/
 pics/*
 !pics/downloadedPics/
 pics/downloadedPics/*
+
+# ...these specific folders.
 !pics/downloadedPics/ADV/
 !pics/downloadedPics/MDV/
 !pics/downloadedPics/MSE-ADV/
