@@ -1,0 +1,16 @@
+.DS_Store
+cards.xml
+decks/
+settings/
+replays/
+decks/
+tokens.xml
+Adversary Version.txt
+!pics/
+pics/*
+!pics/downloadedPics/
+pics/downloadedPics/*
+!pics/downloadedPics/ADV/
+!pics/downloadedPics/MDV/
+!pics/downloadedPics/MSE-ADV/
+!pics/downloadedPics/MSE-ADV2/

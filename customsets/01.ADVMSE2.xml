@@ -1,0 +1,386 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+    <name>MSE-ADV2</name>
+    <longname>MSE Adversaries 2</longname>
+    <settype>Expansion</settype>
+    <releasedate>2016-08-13</releasedate>
+</set>
+</sets>
+  <cards>
+<card>
+    <name>Elsie and Iustus</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control have Soulbond.
+	Paired creatures you control have +1/+1.</text>
+</card>
+<card>
+    <name>Askmunt, Wandering Sage</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature enters the battlefield under your control, you may pay {2}. If you do, you gain life equal to its toughness. Then, if that creature’s toughness is 5 or greater, draw a card.</text>
+</card>
+<card>
+    <name>Eremis, Magefire Interflux</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{U/R}{U/R}: The next sorcery spell you cast has flash until end of turn.</text>
+</card>
+<card>
+    <name>Rogin, Heroic Ideal</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature enters the battlefield under your control, put a level counter on it.
+{5}, {T}: Proliferate.</text>
+</card>
+<card>
+    <name>Fidys, Bane of Setessa</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Add {2} to your mana pool. Spend this mana only on costs that contain {X}.
+</text>
+</card>
+<card>
+    <name>Nikya the Insurmountable</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of the game, choose a number.
+When you attack with exactly the chosen number of creatures, creatures you control gain +X/+X until end of turn, where X is the chosen number.</text>
+</card>
+<card>
+    <name>Loew, Jealous Sculptor</name>
+    <set picURL="">MSE-ADV2</set>
+	<related>Shem</related>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of the first upkeep, create a 3/3 legendary red Golem creature token named Shem.
+At the beginning of each end step, if you control a creature not named Shem, Loew, Jealous Sculptor deals 1 damage to you.</text>
+</card>
+<card>
+    <name>Shem</name>
+    <set rarity="" muId="0">TK</set>
+    <color>R</color>
+    <type>Token Legendary Creature - Golem</type>
+    <pt>3/3</pt>
+    <tablerow>2</tablerow>
+    <token>1</token>
+</card>
+<card>
+    <name>Kochis the Infiltrator</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a Snake you control deals damage to a player, you may draw a card.</text>
+</card>
+<card>
+    <name>Guard Captain</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature enters the battlefield under your control, you may sacrifice a permanent. If you do, put a +1/+1 on that creature.
+Each creature you control with a +1/+1 counter on it has lifelink and vigilance.
+</text>
+</card>
+<card>
+    <name>Helmburg, the Walking Fort</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>C</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Fortify costs of Fortifications you control cost {2} less.
+At the beginning of your upkeep, if you control four or more fortified lands, draw a card.
+</text>
+</card>
+<card>
+    <name>Fate Destructor</name>
+    <set picURL="">MSE-ADV2</set>
+	<related>Abomination</related>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature you control dies, create a purple Abomination creature token that has its power, toughness, and abilities.
+Purple permanents you control have the abilities of every other purple permanent.</text>
+</card>
+<card>
+    <name>Abomination</name>
+    <set rarity="" muId="0">TK</set>
+    <color>P</color>
+    <type>Token Creature - Abomination</type>
+    <pt>*/*</pt>
+    <tablerow>2</tablerow>
+    <token>1</token>
+</card>
+<card>
+    <name>Iris, Nephalian Magus</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}{U}{B}{R}, {T}: Reveal the top three cards of your library and exile them.
+Discard a card, {T}: Cast an instant or sorcery exiled by Iris, Nephalian Magus without paying its mana cost.
+</text>
+</card>
+<card>
+    <name>Mobius</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a permanent you control is exiled, you may pay {2}. If you do, exile target permanent that shares a card type with it.
+</text>
+</card>
+<card>
+    <name>Andemica the Loyal</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a Human is put into the graveyard from anywhere, put a pledge counter on Andemica the Loyal.
+Remove 4 pledge counters from Andemica, {T}: Return target Human from the graveyard to the battlefield.
+</text>
+</card>
+<card>
+    <name>Climatine, Cloudsculptor</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If an creature would deal damage to you and Climatine, Cloudsculptor is untapped, you may pay {3}{W}{U}, if you do, exile it, then return it to the battlefield under it’s owner’s control.
+{2}{W/U}, {T}: Exile target creature, then return that card to the battlefield under its owner’s control.
+</text>
+</card>
+<card>
+    <name>Khimenta, Plague Vector</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, if there are two or more creatures on the battlefield, move a -1/-1 counter from target creature to another target creature with the same controller.
+</text>
+</card>
+<card>
+    <name>Garu, Bone Weaver</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures assign combat damage equal to the greater of their power or toughness.
+If a creature with power or toughness 5 or greater you control would die, any opponent may pay {2}, otherwise target player sacrifices a creature.
+</text>
+</card>
+<card>
+    <name>Ugrumath, Phyrexian Vessel</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}, {T}: Create a 0/2 Legendary Creature token named “Avatar of Ug'rumath” with “Avatar of Ug'rumath gains +1/+1 for each mana in your mana pool.”.
+While you control a creature named “Avatar of Ug'rumath”, colorless mana does not empty from your pool.
+{G}: Add {1} to your mana pool.
+</text>
+</card>
+<card>
+    <name>Emiran, Soul Ghoul</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, if you have 20 or more life, lose 1 life and create a 1/1 white Spirit creature token with flying.
+At the beginning of your upkeep,if you have 10 or less life, lose 1 life and create a 2/2 black Zombie creature token.
+</text>
+</card>
+<card>
+    <name>Avalaro, Tenant of Nature</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RGW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures with power 5 or greater have menace and can’t block.
+Whenever a creature with power 5 or greater enters the battlefield, search your library for a basic land and put it onto the battlefield tapped, then shuffle your library, then gain 2 life.
+</text>
+</card>
+<card>
+    <name>Ferromus, Deranged Purist</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature enters the battlefield under your control, if two or more colors of mana were spent to cast it, sacrifice it. If you do, Ferromus, Deranged Purist deals 2 damage to target creature or player.
+</text>
+</card>
+<card>
+    <name>Aldema, Myr Matron</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Myr spells you play cost {1} less.
+Whenever a nontoken creature enters the battlefield, you may pay {W/U}, if you do, create a 1/1 colorless Myr artifact creature token.
+</text>
+</card>
+<card>
+    <name>Ayun, Scribe of the Void</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>When you detain a creature, you may draw a card or put a +1/+1 counter on target creature.
+{3}{W}{U}, {T}: Detain target creature.
+</text>
+</card>
+<card>
+    <name>Bhadim, Baroness of Form</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>URG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Face down cards you control have hexproof.
+Whenever you turn a card face up, you may pay {3}, if you do, you may turn another card face up.
+</text>
+</card>
+<card>
+    <name>Kerani, Illusionary Intruder</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever one or more creatures you control deals combat damage to a player, create an creature token that's a copy of one of those creatures, except it is an illusion and has “Whenever this becomes the target of a spell or ability, sacrifice it.”
+</text>
+</card>
+<card>
+    <name>Klein</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a player casts an instant or sorcery spell, flip a coin. If heads, counter that spell. If tails, that player copies that spell. That player may choose new targets for their copy.
+Whenever a player casts an artifact, creature, enchantment or planeswalker spell, flip a coin. If heads, counter that spell. If tails, that player creates a token that is a copy of the permanent that spell would become.
+</text>
+</card>
+<card>
+    <name>Pelemor, Patriach of the Bereaved</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> At the beginning of your upkeep, if you have no cards in your hand, you may skip your draw step. If you do, creature cards in your graveyard gain Unearth {X}{U/B} until end of turn, where {X} is the converted mana cost of the creature minus one.
+</text>
+</card>
+<card>
+    <name>Venoda of the Grand Guard</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>W</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> Whenever an opponent gains life, you may put a repentance counter on Venoda of the Grand Guard.
+ Remove a repentance counter from Venoda: Creatures you control gain +1/+1 until end of turn.
+</text>
+</card>
+<card>
+    <name>Yemnad, Oblivion Cabalist</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you attack with two or more creatures, target player discards a card.
+</text>
+</card>
+<card>
+    <name>Lethe, Necrosavant</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> Whenever a nontoken creature you control dies, you may put target instant or sorcery card with converted mana cost X or less from your graveyard on top of your library, where X is that creature's power.
+</text>
+</card>
+<card>
+    <name>Elkeppan the Terrible</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> At the beginning of your first upkeep, you become the monarch.
+At the beginning of your upkeep, if you are the monarch, you may return target creature from your graveyard to your hand. Any player may pay 2 life to counter this ability.
+</text>
+</card>
+  </cards>
+</cockatrice_carddatabase>

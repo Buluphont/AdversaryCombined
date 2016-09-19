@@ -1,0 +1,99 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+	<name>MDV</name>
+	<longname>Meme Set Adversaries</longname>
+    <settype>Meme Set</settype>
+    <releasedate>2016-04-08</releasedate>
+</set>
+</sets>
+  <cards>
+<card>
+    <name>Seraph, Special Snowflake</name>
+    <set picURL="">MDV</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}{S}: Put an ice counter on target tapped nonsnow, nonland permanent.
+Permanents with ice counters on them are snow, don't untap during their controllers' untap steps and have "{1}: Remove an ice counter from this permanent."</text>
+</card>
+<card>
+    <name>Ruler of All That Is and Ever Will Be</name>
+    <set picURL="">MDV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Don't look at me, I can't read it either.</text>
+</card>
+<card>
+    <name>Rance, Super King</name>
+    <set picURL="">MDV</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{B}{R}, {T}: Tap target female creature, planeswalker or adversary, then put a harem counter on it.
+{1}{B}{R}, {T}, Remove a harem counter from target permanent an opponent controls: Until end of turn, you gain control of that permanent and it gains haste.</text>
+</card>
+<card>
+    <name>Thugnificent, Voice of Reason</name>
+    <set picURL="">MDV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an ability of an adversary is activated, you may say "Why?"
+If that adversary's controller cannot come up with a good answer, counter that activated ability.</text>
+</card>
+<card>
+    <name>ADV Expansion</name>
+    <set picURL="">MDV</set>
+    <color>U</color>
+    <manacost>2U</manacost>
+    <cmc>3</cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Enchant female Adversary
+Enchanted permanent cannot be untapped until its creator officially states that the art is not indicative of their breast size.</text>
+</card>
+<card>
+    <name>Demiurge</name>
+    <set picURL="">MDV</set>
+    <color>X</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}, {T}: Search for a random card from outside of the game and reveal it. If it's a permanent, put a copy of it onto the battlefield. If it's an instant or sorcery, you may cast a copy of it without paying its mana cost.</text>
+</card>
+<card>
+    <name>Pim, Meddling Goddess</name>
+    <set picURL="">MDV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a player casts an instant or sorcery spell, choose a random player. That player gains control of the spell and may choose new targets for that spell.
+Whenever a nonland permanent enters the battlefield, choose a random player. That player gains control of that permanent.</text>
+</card>
+<card>
+    <name>Nix, Phyrexian Scion</name>
+    <set picURL="">MDV</set>
+    <color>X</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Your deck cannot contain lands.
+At the beginning of your upkeep, gain 5 life. You cannot gain life in any other way.
+Pay 2 life: Add one mana of any color to your mana pool.</text>
+</card>
+  </cards>
+</cockatrice_carddatabase>

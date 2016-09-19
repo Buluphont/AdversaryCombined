@@ -1,0 +1,347 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+	<name>MSE-ADV</name>
+	<longname>MSE Adversaries</longname>
+    <settype>Expansion</settype>
+    <releasedate>2016-06-24</releasedate>
+</set>
+</sets>
+  <cards>
+<card>
+    <name>Serena, Last of Goldnight</name>
+    <set num="1" picURL="">MSE-ADV</set>
+    <color>WR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Each card you own that is not on the battlefield has madness. the madness cost is equal to the card's mana cost.
+When a creature leaves the battlefield, you may discard a card.</text>
+</card>
+<card>
+    <name>Castelia, the Resolute</name>
+    <set num="2" picURL="">MSE-ADV</set>
+	<related>Castelia's Charge</related>
+    <color>WUR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}{W}{U}{R}: Create a 4/4 legendary multicolored Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
+</card>
+<card>
+	<name>Castelia's Charge</name>
+	<set rarity="" muId="1" picURL="">MSE-ADV</set>
+	<color>WUR</color>
+	<type>Token Legendary Creature — Human Knight</type>
+	<pt>4/4</pt>
+	<tablerow>2</tablerow>
+	<text>Haste</text>
+	<token>1</token>
+</card>
+<card>
+    <name>Alida, Fleeting Spirit</name>
+    <set num="3" picURL="">MSE-ADV</set>
+    <color>WUB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control have skulk.
+{W/B}, {T}: Target creature is a Spirit in addition to its other creature types until end of turn.</text>
+</card>
+<card>
+    <name>Abigail, Exiled Inventor</name>
+    <set num="4" picURL="">MSE-ADV</set>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.
+Sacrifice an artifact creature you control, {U}{R}: Abigail, Exiled Inventor deals damage to target creature equal to the sacrificed creatures power.</text>
+</card>
+<card>
+    <name>Thordaw, Werewolf Alpha</name>
+    <set num="5" picURL="">MSE-ADV</set>
+    <color>RG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}, {T}: Transform target creature.
+Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf Alpha.</text>
+</card>
+<card>
+    <name>Haniel, Unrelenting Rider</name>
+    <set num="6" picURL="">MSE-ADV</set>
+    <color>WB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Nontoken creatures you control have extort.</text>
+</card>
+<card>
+    <name>Gurbal, Grand Culinary Master</name>
+    <set num="7" picURL="">MSE-ADV</set>
+    <color>RG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}{G}{G}, Sacrifice a Plant: You gain life equal to the sacrificed Plant's converted mana cost. Draw a card.
+{1}{R}{R}, Sacrifice a Beast: Gurbal, Grand Culinary Master deals 3 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Shideh-Merle, Aurashaper</name>
+    <set num="8" picURL="">MSE-ADV</set>
+    <color>GWU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Auras you control have "{G/W/U}, Pay 2 life: Attach this Aura to target permanent or player it can enchant."</text>
+</card>
+<card>
+    <name>Accenu, Ancestral Animist</name>
+    <set num="9" picURL="">MSE-ADV</set>
+	<related>Spirit       </related>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an Equipment you control would become attached to a creature, you may create a 0/1 white Spirit creature token and attach that Equipment to it instead.
+Whenever a Spirit creature you control would be destroyed, if it is equipped, you may sacrifice an Equipment attached to it instead.</text>
+</card>
+<card>
+	<name>Spirit       </name>
+	<set rarity="" muId="1" picURL="">MSE-ADV</set>
+	<color>W</color>
+	<type>Token Creature — Spirit</type>
+	<pt>0/1</pt>
+	<tablerow>2</tablerow>
+	<text>Flying</text>
+	<token>1</token>
+</card>
+<card>
+    <name>Falenari, Grand Gardener</name>
+    <set num="10" picURL="">MSE-ADV</set>
+    <color>G</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{G}{G}, Sacrifice a Plant you control: Add an amount of {G} to your mana pool equal to the toughness of the sacrificed creature.</text>
+</card>
+<card>
+    <name>Xoldevak, Rotting Incarnate</name>
+    <set num="11" picURL="">MSE-ADV</set>
+    <color>GB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If you would put a -1/-1 counter on a creature, you may pay {1}. If you do, put a +1/+1 counter on that creature instead.
+If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, put a -1/-1 counter on that creature instead.</text>
+</card>
+<card>
+    <name>Kalaron, Guild Leader</name>
+    <set num="12" picURL="">MSE-ADV</set>
+    <color>RW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{R}, {T}: Target creature must attack this turn if able.
+{W}, {T}: Target creature can't attack this turn.</text>
+</card>
+<card>
+    <name>Miria, the Living Woods</name>
+    <set num="13" picURL="">MSE-ADV</set>
+    <color>RG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{R}{G}, {T}: Put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It is still a land.</text>
+</card>
+<card>
+    <name>Castelia, Shield of Avemarc</name>
+    <set num="14" picURL="">MSE-ADV</set>
+    <color>RGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{R}{G}{W}, {T}: Create a copy of target token creature you control. You gain X life, where X is equal to the number of tokens you control that share a creature type with it.</text>
+</card>
+<card>
+    <name>Menorath, Stronghold Veteran</name>
+    <set num="15" picURL="">MSE-ADV</set>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Blocking creatures you control have +0/+2.
+Creatures you control with defender lose defender.</text>
+</card>
+<card>
+    <name>Advorian, Warmonger</name>
+    <set num="16" picURL="">MSE-ADV</set>
+    <color>R</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control have haste.
+If a creature a player controls attacks, all creatures that player controls attack if able.</text>
+</card>
+<card>
+    <name>Dominaria Awoken</name>
+    <set num="17" picURL="">MSE-ADV</set>
+    <color>RGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a noncreature source you control deals damage, you gain that much life.
+{1}{R}, {T}: Dominaria Awoken deals 1 damage to target creature.</text>
+</card>
+<card>
+    <name>Wenela, Ecotitan</name>
+    <set num="18" picURL="">MSE-ADV</set>
+	<related>Horror    </related>
+    <color>GU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control without evolve gain evolve.
+{G}{U}: Create a 1/1 green and blue Horror creature token.</text>
+</card>
+<card>
+	<name>Horror    </name>
+	<set rarity="" muId="2" picURL="">MSE-ADV</set>
+	<color>GU</color>
+	<type>Token Creature — Horror</type>
+	<pt>1/1</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
+</card>
+<card>
+    <name>Jimilix, Paradox Magus</name>
+    <set num="19" picURL="">MSE-ADV</set>
+    <color>U</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your first upkeep each turn, you get an additional upkeep step after this step.</text>
+</card>
+<card>
+    <name>Memere, Turner of Essence</name>
+    <set num="20" picURL="">MSE-ADV</set>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you return a creature to its owners hand, instants and sorceries cost {1} less until end of turn.
+{1}{U}{R}, {T}: Return target creature to its owners hand.</text>
+</card>
+<card>
+    <name>Luciana, Matriarch of Warfare</name>
+    <set num="21" picURL="">MSE-ADV</set>
+    <color>WR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player.</text>
+</card>
+<card>
+    <name>Guardian of Llanowar</name>
+    <set num="22" picURL="">MSE-ADV</set>
+    <color>G</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Landfall — If a land entered the battlefield under your control this turn, creatures you control get +1/+0 and trample.</text>
+</card>
+<card>
+    <name>Kamirth, Dragon of Leylines</name>
+    <set num="23" picURL="">MSE-ADV</set>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control have amplify 1.</text>
+</card>
+<card>
+    <name>Borgue, Artificer Savant</name>
+    <set num="24" picURL="">MSE-ADV</set>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}{U}{U}{R}, Sacrifice an artifact creature, {T}: Search your library for a noncreature artifact, put it onto the battlefield, then shuffle your library.</text>
+</card>
+<card>
+    <name>Shirdar, Dread Doctor</name>
+    <set num="25" picURL="">MSE-ADV</set>
+    <color>B</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a spell from your graveyard, put a hex counter on Shirdar, Dread Doctor.
+At the beginning of your upkeep, if Shirdar has six or more hex counters on it, return target creature from your graveyard to the battlefield.</text>
+</card>
+<card>
+    <name>Bao Xue, Merchant of Secrets</name>
+    <set num="26" picURL="">MSE-ADV</set>
+    <color>GU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature deals combat damage to an opponent, its controller draws that many cards.
+No more than two creatures may attack each combat.</text>
+</card>
+<card>
+    <name>Ali and Rosa, the Flames of Passion</name>
+    <set num="27" picURL="">MSE-ADV</set>
+    <color>WBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Raid — If you attacked with a creature this turn, the first creature you cast on your second main phase cost {1} less.
+{3}{W/B/R}, {T}: Target creature you control gains first strike until end of turn.</text>
+</card>
+<card>
+    <name>Ji-Min, Sunblessed of Raju</name>
+    <set num="28" picURL="">MSE-ADV</set>
+    <color>GWU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control attacks alone, you may put and exaltation counter on target nonland permanent.
+Permanents you control with exaltation counters have exalted.</text>
+</card>
+<card>
+    <name>Luru, Priestess of Sanguinus</name>
+    <set num="29" picURL="">MSE-ADV</set>
+    <color>UBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Demons you control cannot be countered or returned to its owner's hand.
+Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of any color of mana to your mana pool. This mana can only be used to cast Demon spells."</text>
+</card>
+<card>
+    <name>Padma, Overseer of the Foundry</name>
+    <set num="30" picURL="">MSE-ADV</set>
+    <color>WUB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control are artifacts in addition to their other types.
+{X}{X}{W}{U}{B}, {T}: Gain control of target creature or artifact with a converted mana cost of X.</text>
+</card>
+<card>
+    <name>Vida, the Necrotic Flame</name>
+    <set num="31" picURL="">MSE-ADV</set>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a notoken creature you control dies, you may pay {3}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
+</card>
+<card>
+    <name>Pirraka, Insanity Scribe</name>
+    <set num="32" picURL="">MSE-ADV</set>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If you would draw a card, you may instead draw a card from the bottom of your library.
+{U/R}: Put the top card of your library on the bottom of your library.</text>
+</card>
+<card>
+    <name>Serena, Goldnight Angel</name>
+    <set num="33" picURL="">MSE-ADV</set>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Equipment and Aura spells you cast cost {1} less.
+{1}{W}{W}, {T}: Return target Equipment or Aura card from your graveyard to your hand.
+{1}{W}{W}, {T}: Look at the top four cards of your library, you may reveal a Human card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+</card>
+<card>
+    <name>Malum, the Usurper Queen</name>
+    <set num="34" picURL="">MSE-ADV</set>
+    <color>RGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature attacks the monarch that isn't you, put a +1/+1 count on it.
+{3}{R/G/W}, {T}: Target player becomes the monarch. Only play this ability is you are the monarch.</text>
+</card>
+<card>
+    <name>Narameya, the Flow of Elements</name>
+    <set num="35" picURL="">MSE-ADV</set>
+    <color>WUBRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a creature for its evoke cost, if you would sacrifice it when it comes into play you may instead sacrifice it at end of turn. It gains haste.</text>
+</card>
+</cards>
+</cockatrice_carddatabase>

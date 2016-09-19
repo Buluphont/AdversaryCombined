@@ -1,0 +1,894 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+	<name>ADV</name>
+	<longname>Main Set Adversaries</longname>
+    <settype>Base Set</settype>
+    <releasedate>2015-05-05</releasedate>
+</set>
+</sets>
+  <cards>
+<card>
+    <name>Fina, Dragon Rider</name>
+    <set picURL="">ADV</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Exile target Human creature you control. Target Dragon creature you control gains all abilities of that card and gets +X/+Y, where X is the exiled creature's power and Y is its toughness.</text>
+</card>
+<card>
+    <name>Calico, Vacant Oracle</name>
+    <set picURL="">ADV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Begin the game with the top 16 cards of your library in the graveyard. 
+You have no maximum hand size. 
+If you would draw a card, draw two cards instead.</text>
+</card>
+<card>
+    <name>Vyndiis, the Purist</name>
+    <set picURL="">ADV</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Spells that cost generic mana to cast cost {1} more to cast.
+Abilities that cost generic mana to activate cost {1} more to activate.</text>
+</card>
+<card>
+    <name>Ignis, Raging Pyre</name>
+    <set picURL="">ADV</set>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{R}{R}, Pay 1 life: Ignis, Raging Pyre deals 2 damage to each creature and each opponent.</text>
+</card>
+<card>
+    <name>Velan, Cursed Empress</name>
+    <set picURL="">ADV</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>When an opponent gains life, you lose that much life.
+When an opponent loses life, you gain that much life.</text>
+</card>
+<card>
+    <name>Luxos, Captain of the Guard</name>
+    <set picURL="">ADV</set>
+    <color>W</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of each opponent's end step, if you took no damage that turn, put a heroism counter on Luxos.
+Creatures you control can block an additional creature.
+Remove 10 heroism counters from Luxos: You win the game.</text>
+</card>
+<card>
+    <name>Chroma, Mourning Goddess</name>
+    <set picURL="">ADV</set>
+    <color>WURBG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If you control one or more creatures of each color, creatures cannot attack.
+{W}{U}{R}{B}{G}: Put a peace counter on Chroma, Mourning Goddess.
+Remove five peace counters from Chroma, Mourning Goddess: You win the game.</text>
+</card>
+<card>
+    <name>Falgore, Risen Necrolord</name>
+    <set picURL="">ADV</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If your graveyard is empty, your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)</text>
+</card>
+<card>
+    <name>Sigma, Perfect Construct</name>
+    <set picURL="">ADV</set>
+    <color>X</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Put a targeting counter on target nonland permanent.
+{T}: Destroy all permanents with targeting counters on them.</text>
+</card>
+<card>
+    <name>Deus, the Creator</name>
+    <set picURL="">ADV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, exile all other adversaries you control, then put an adversary of level 4 or lower you own from outside the game into the command zone.</text>
+</card>
+<card>
+    <name>Elania, Warrior Priestess</name>
+    <set picURL="">ADV</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If a source you control would deal damage to a permanent an opponent controls, it deals that much damage plus 1 instead.
+If a source an opponent controls would deal damage to you, prevent 1 of that damage.</text>
+</card>
+<card>
+    <name>Jim, Goblin Tosser</name>
+    <set picURL="">ADV</set>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Goblin spells you cast cost {1} less to cast.
+Sacrifice a Goblin: Goblin-Tossin' Jim deals 1 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Kypris, of Stone Circles</name>
+    <set picURL="">ADV</set>
+    <color>GB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Snake, Gorgon and Naga creatures you control have {4}{G}{B}: Monstrosity X, where X is your devotion to green and black.
+When a Snake, Gorgon or Naga creature you control becomes monstrous, put a petrification counter on target creature. It gains defender and becomes a colorless artifact in addition to its other types. Its activated abilities can't be activated.</text>
+</card>
+<card>
+    <name>Nemosyn, Goddess of Speech</name>
+    <set picURL="">ADV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a spell or ability is countered, put an insight counter on Nemosyn, Goddess of Speech.
+{T}, Remove 2 insight counters from Nemosyn, Goddess of Speech: Draw a card.
+{T}, Remove 5 insight counters from Nemosyn, Goddess of Speech: Gain control of target nonland permanent.</text>
+</card>
+<card>
+    <name>Nixien, Brineshaper</name>
+    <set picURL="">ADV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1},{T}: Target land becomes an Island in addition to its other types.
+{10},{T}: Scry 3. This ability costs (1) less to activate for each Island on the battlfield.</text>
+</card>
+<card>
+    <name>Olag Nar, Master Plasmancer</name>
+    <set picURL="">ADV</set>
+    <color>GU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{G}{U}, {T}, Remove X counters from among any number of permanents you control: Counter target spell with converted mana cost X.</text>
+</card>
+<card>
+    <name>Seraph, False Paragon</name>
+    <set picURL="">ADV</set>
+    <color>WUB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Your opponents play with their hands revealed.
+{T}:  Activate this ability only once per game any time you could cast a sorcery. Exile a nonland card from target opponent's hand. Until end of turn, you may spend mana as though it were mana of any color to cast it.</text>
+</card>
+<card>
+    <name>Reeve, Dimir Thought-Thief</name>
+    <set picURL="">ADV</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control deals combat damage to an opponent, that opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts all cards revealed this way into his or her graveyard.</text>
+</card>
+<card>
+    <name>Teren, of Benalia</name>
+    <set picURL="">ADV</set>
+    <color>W</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever one or more creatures attack you, you may pay {X}{X}. If you do, put X 1/1 white Soldier creature tokens on the battlefield. 
+Soldier creatures you control have Vigilance.</text>
+</card>
+<card>
+    <name>Ananta Seshou, Grand Omnyodo</name>
+    <set picURL="">ADV</set>
+    <color>BGW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting a spell pays for {1} or one mana of that creature's color.</text>
+</card>
+<card>
+    <name>Azchiti, Grand Mutator</name>
+    <set picURL="">ADV</set>
+    <color>GU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{G}{U}, {T}: Choose one -
+- Put a +1/+1 counter on target creature.
+- Remove a +1/+1 counter from target creature.
+{1}{G}{U}, {T}: Choose one -
+- Put a -1/-1 counter on target creature.
+- Remove a -1/-1 counter from target creature.</text>
+</card>
+<card>
+    <name>Chronominus, Temporal Entity</name>
+    <set picURL="">ADV</set>
+    <color>UR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Players can't cast creature spells from their hands.
+All creature cards gain suspend 2, where the suspend cost is equal to the creature's mana cost. (Rather than cast that card from your hand, you may pay its suspend cost and exile it with 2 time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</text>
+</card>
+<card>
+    <name>Felith, the Barrage</name>
+    <set picURL="">ADV</set>
+    <color>UR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Instant and sorcery cards in your graveyard have flashback. Their flashback costs are equal to their mana costs.</text>
+</card>
+<card>
+    <name>Goriga, Brood Matriarch</name>
+    <set picURL="">ADV</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}{R}{G}, {T}: Put X 1/1 red Drake creature tokens with flying onto the battlefield.
+{R}{G}, {T}: Put a 0/2 green Egg creature token onto the battlefield. It has "At the beginning of your upkeep, put an incubation counter on this creature." and "{T}, Remove all incubation counters from this creature: This creature becomes a copy of target Dragon with converted mana cost less than or equal to the number of incubation counters removed this way."</text>
+</card>
+<card>
+    <name>Runna, Knight of the Final Hour</name>
+    <set picURL="">ADV</set>
+    <color>W</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, if you have 7 or less life, draw two cards, gain 3 life, and put four 1/1 white Soldier creature tokens on the battlefield.</text>
+</card>
+<card>
+    <name>Thrash, Slime-Weaver</name>
+    <set picURL="">ADV</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, put a 1/1 green and black Ooze creature token on the battlefield.
+{B}{G}, {T}, Sacrifice two or more Ooze creatures you control: Put an X/Y black and green Ooze creature token on the battlefield, where X is the sacrificed creatures' combined power and Y is the sacrificed creatures' combined toughness.</text>
+</card>
+<card>
+    <name>Hezornak, Dread Progeny</name>
+    <set picURL="">ADV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Eldrazi spells you cast cost {1} less to cast.
+{5}, {T}: Exile target land.
+{7}, {T}: All players sacrifice all creatures with converted mana cost 3 or less.</text>
+</card>
+<card>
+    <name>Bestel, Hand of Protection</name>
+    <set picURL="">ADV</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}, Pay 4 life: Choose one -
+- Target creature gains hexproof until end of turn.
+- The next time a source of your choice would deal damage to target creature this turn, prevent that damage.</text>
+</card>
+<card>
+    <name>Prince Zael, Saint of Blades</name>
+    <set picURL="">ADV</set>
+    <color>WR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Equipment you control have equip {0}.
+Metalcraft - As long as you control three or more artifacts, creatures you control get +1/+0 for each Equipment attached to them.</text>
+</card>
+<card>
+    <name>Jera, High Magistrate</name>
+    <set picURL="">ADV</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, put an order counter on Jera, High Magistrate.
+Whenever a source deals damage to you, remove an order counter from Jera, High Magistrate.
+{X}{X}, Remove X order counters from Jera, High Magistrate: Spells your opponents cast cost X more to cast next turn.</text>
+</card>
+<card>
+    <name>Crimea, Supreme Asura</name>
+    <set picURL="">ADV</set>
+    <color>WGU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control attacks alone, if it's the first combat phase of the turn, that creature does not untap during your next untap step. After this phase, there is an additional combat phase.</text>
+</card>
+<card>
+    <name>Makra, Envoy of Elation</name>
+    <set picURL="">ADV</set>
+    <color>URW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a spell, put an elation counter on Makra, Envoy of Elation.
+{T}, Remove X elation counters from Makra, Envoy of Elation: Choose one -
+- Draw X cards then discard that many cards.
+- Deal X damage to target player.
+- Gain X life.</text>
+</card>
+<card>
+    <name>Virgel, Fablechild</name>
+    <set picURL="">ADV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}, Discard a card: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+    <name>Khan, Solemn Immortal</name>
+    <set picURL="">ADV</set>
+    <color>BRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Nontoken creatures you control with no abilities get +2/+2.</text>
+</card>
+<card>
+    <name>Renais, Unlikely Conquerer</name>
+    <set picURL="">ADV</set>
+    <color>WRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You cannot gain life.
+If a source an opponent controls would cause you to lose less than 5 life, prevent that loss of life.</text>
+</card>
+<card>
+    <name>Rift</name>
+    <set picURL="">ADV</set>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Basic Land - Rift</type>
+    <tablerow>0</tablerow>
+    <text>{T}: Add {P} to your mana pool. ({P} may be spent as though it were mana of any color.)</text>
+</card>
+<card>
+    <name>Arcolus, Infiltrating Hivemind</name>
+    <set picURL="">ADV</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature with a -1/-1 counter on it dies, its controller may put X 1/3 green Spider creature tokens with reach into play, where X is the number of -1/-1 that creature had on it.
+{1}{B}{G}: Put a -1/-1 counter on target creature.</text>
+</card>
+<card>
+    <name>Ezra, Oathbreaker</name>
+    <set picURL="">ADV</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{W}{U}{B}{R}{G}: Move any number of loyalty counters from target Planeswalker you control onto another target Planeswalker you control.</text>
+</card>
+<card>
+    <name>Reluctant Packleader</name>
+    <set picURL="">ADV</set>
+<related>Kessig, Unleashed Alpha</related>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Transform target Non-Human Werewolf you control. Prevent all damage that would be dealt to and and dealt by it this turn.
+At the beginning of each end step, if three or more Werewolves transformed this turn, transform Reluctant Packleader.</text>
+</card>
+<card>
+    <name>Kessig, Unleashed Alpha</name>
+    <set picURL="">ADV</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Deal 3 damage to target creature or player.
+Wolf and Werewolf creatures you control get +1/+1 and have menace.
+Non-Human Werewolves you control can't transform.</text>
+</card>
+<card>
+    <name>Aspiring Lich</name>
+    <set picURL="">ADV</set>
+<related>Nephalia, Resurrected Reaper</related>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature dies, you may put the top card of your library into the graveyard.
+At the beginning of your upkeep, if there are fifteen or more cards in your graveyard, transform Aspiring Lich.</text>
+</card>
+<card>
+    <name>Dutiful Remnant</name>
+    <set picURL="">ADV</set>
+<related>Gavony, Returned Hero</related>
+    <color>WG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Human creatures you control have Vigilance.
+Tap three untapped humans you control: Exile target Vampire, Zombie, Werewolf or Spirit.
+At the beginning of each end step, if you have 5 or less life, transform Dutiful Remnant.</text>
+</card>
+<card>
+    <name>Forgotten Sarcophagus</name>
+    <set picURL="">ADV</set>
+<related>Stensia, Awoken Antediluvian</related>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you gain life, you may pay {1}. If you do, put a vitae counter on Forgotten Sarcophagus.
+{5},{T}: Transform Forgotten Sarcophagus.</text>
+</card>
+<card>
+    <name>Gavony, Returned Hero</name>
+    <set picURL="">ADV</set>
+    <color>WG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Human creatures you control have protection from Vampires, Zombies, Werewolves and Spirits.
+{T}: Exile target creature. If it was a Vampire, Zombie, Werewolf or Spirit, gain 2 life.</text>
+</card>
+<card>
+    <name>Haunted Inquisitor</name>
+    <set picURL="">ADV</set>
+<related>Innistrad, Unshackled Specter</related>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you sacrifice a clue, put a study counter on Haunted Inquisitor.
+Remove 5 study counters from Haunted Inquisitor: transform Haunted Inquisitor.</text>
+</card>
+<card>
+    <name>Innistrad, Unshackled Specter</name>
+    <set picURL="">ADV</set>
+    <color>WU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever this Adversary transforms into Innistrad, Unshackled Specter, exile all cards from all graveyards, then put a 1/1 white Spirit creature token with flying into play for each creature card exiled this way.
+Whenever you draw a card, put a 1/1 white Spirit creature token with flying on the battlefield.</text>
+</card>
+<card>
+    <name>Nephalia, Resurrected Reaper</name>
+    <set picURL="">ADV</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control dies, put the top card of your library into the graveyard, then return that creature to the battlefield under your control at the beginning of the next end step.
+Whenever a creature an opponent controls dies, search your graveyeard for a Zombie with converted mana cost equal to or less than that creature and put it on the battlefield.</text>
+</card>
+<card>
+    <name>Oswin, Ruthless Executioner</name>
+    <set picURL="">ADV</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Damage to creatures does not reset during the end phase.
+At the beginning of your end phase, your life total becomes 10.</text>
+</card>
+<card>
+    <name>Palude, Saint of the Mire</name>
+    <set picURL="">ADV</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature dies, you may tap Palude, Saint of the Mire and pay 2 life. If you do, search your library for a Swamp card and put it onto the battlefield tapped. Then shuffle your library.</text>
+</card>
+<card>
+    <name>Stensia, Awoken Antediluvian</name>
+    <set picURL="">ADV</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever this Adversary transforms into Stensia, Awoken Antediluvian, it deals X damage to target player and up to five target creatures that player controls, where X is the number of vitae counters on it. For each creature that died this way, put a 2/2 black Vampire creature token with lifelink into play.
+Whenever you gain life, you may pay {2} and remove a vitae counter from Stensia. If you do, put a +1/+1 counter on each Vampire creature you control.</text>
+</card>
+<card>
+    <name>Teradestrukon, Scorched Earth</name>
+    <set picURL="">ADV</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, if there are four or more land cards in all graveyards, Teradestrukon, Scorched Earth deals 4 damage to each player.
+Exile a land card from your graveyard: Teradestrukon deals 2 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Adversary</name>
+    <set picURL="">ADV</set>
+    <color></color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Begin the game with up to one Adversary Ability attached to this card.</text>
+</card>
+<card>
+    <name>Amalgamate</name>
+    <set picURL="">ADV</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Instants and sorceries you cast have "You may exile this spell as it resolves. If you do, put an X/X purple Amalgamate creature token on the battlefield, where X is half the number of Rifts you control, rounded down.
+Sacrifice an Amalgamate: Add {P} to your mana pool.</text>
+</card>
+<card>
+    <name>Cecil, Court Cabalist</name>
+    <set picURL="">ADV</set>
+    <color>WB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a player casts a spell, any player may pay {1}. If they do, counter that spell unless its controller pays {1}.
+Whenever any of Cecil, Court Cabalist's abilities are activated, any player may pay {1}. If they do, counter that ability.</text>
+</card>
+<card>
+    <name>Eidolon</name>
+    <set picURL="">ADV</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{P}{P}{P}{P},{T}: Exile target permanent.
+{T}, Sacrifice a Rift: Exile target adversary. Return that adversary to the battlefield under its owner's control at the beginning of the next end step.
+Whenever you're dealt damage, return all cards exiled with Eidolon to the battlefield under their owners' control.</text>
+</card>
+<card>
+    <name>Epsilon, Envious Construct</name>
+    <set picURL="">ADV</set>
+    <color>X</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Put X envy counters on Epsilon, Envious Construct, where X is the number of colors among permanents target player controls.
+Remove 25 envy counters from Epsilon: Epsilon's color identity becomes {W}{U}{B}{R}{G}. Exile all cards from your library and hand, then shuffle all cards from your sideboard into your library and draw seven cards. Lands you control get "{T}: Add one mana of any color to your mana pool."</text>
+</card>
+<card>
+    <name>Iconoclast</name>
+    <set picURL="">ADV</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of each player's upkeep, that player casts a random card exiled with Iconoclast without paying its mana cost.
+{P}, {T}: Each player reveals cards from the top of their library until they reveal a nonland card. Then each player exiles that card and puts all cards revealed this way that weren't exiled on the bottom of his or her library.</text>
+</card>
+<card>
+    <name>Mahacile, Everlasting Bounty</name>
+    <set picURL="">ADV</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}{G}: Remove X +1/+1 counters from any number of target creatures, then put a 1/1 green Plant creature token with reach onto the battlefield for each counter removed this way.
+{3}{G}, {T}: You gain 1 life for each Plant you control.</text>
+</card>
+<card>
+    <name>Parity</name>
+    <set picURL="">ADV</set>
+    <color></color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Parity enters the battlefield with X balance counters on it, where X is equal to the level difference between both adversaries.
+Remove a balance counter from parity: Choose one -
+- Gain 4 life.
+- Draw two cards, then discard a card.
+- Search your library for a basic land card and put it onto the battlefield tapped.</text>
+</card>
+<card>
+    <name>Potentate</name>
+    <set picURL="">ADV</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>As long as they have an adversary in play, your opponents cannot lose the game.
+{T}: Exile target opponent's adversary. Activate this ability only if that player owns 20 or more cards in exile.</text>
+</card>
+<card>
+    <name>Protea, Mother of Metamorphosis</name>
+    <set picURL="">ADV</set>
+    <color>UBG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{U}{B}{G}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost X or less, where X is 1 plus the sacrificed creature's converted mana cost. Put that card onto the battlefield tapped, then shuffle your library.</text>
+</card>
+<card>
+    <name>Savior</name>
+    <set picURL="">ADV</set>
+    <color>P</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You may cast spells from exile by paying X, where X is twice the spell's converted mana cost.
+{P}{P}, {T}: Return target exiled card you own to your hand.</text>
+</card>
+<card>
+    <name>Sigvaldt, Relentless Khan</name>
+    <set picURL="">ADV</set>
+    <color>WBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If you would lose the game, instead put three fury counters on Sigvaldt, Relentless Khan. For the rest of the game, you can't put counters on Sigvaldt.
+As long as Sigvaldt has one or more fury counters on it, you can't lose the game.
+At the beginning of your end step, remove a fury counter from Sigvaldt.</text>
+</card>
+<card>
+    <name>Valter, Living Conduit</name>
+    <set picURL="">ADV</set>
+    <color>UR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a red instant or sorcery spell, you may pay {1}. If you do, put a charge counter on target permanent you control.
+Whenever you cast a blue instant or sorcery spell, you may pay {1}. If you do, move up to two charge counters from one permanent you control to another target permanent.</text>
+</card>
+<card>
+    <name>Wyndel, Forest Muse</name>
+    <set picURL="">ADV</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Landfall - Whenever a land enters the battlefield under your control, you may pay {3}. If you do, search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+{1}{G}, {T}: You may put a land card from your hand onto the battlefield.</text>
+</card>
+<card>
+    <name>Zappi, Ace Artificer</name>
+    <set picURL="">ADV</set>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}: Put a surge counter on target artifact you control, then roll a six-sided die. If the result is equal to or lower than the number of surge counters on that artifact, sacrifice it and lose 2 life.
+Remove a surge counter from target artifact you control: Add {R} to your mana pool.</text>
+</card>
+<card>
+    <name>Drake, Dread Pirate</name>
+    <set picURL="">ADV</set>
+    <color>UBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control deals combat damage to an opponent, put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."</text>
+</card>
+<card>
+    <name>Penthesilea, Witch of Hearts</name>
+    <set picURL="">ADV</set>
+    <color>GW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If each player has 15 more life than their starting total, you win the game.
+{G/W}: Target player gains 1 life.</text>
+</card>
+<card>
+    <name>Belial, Underworld Ravager</name>
+    <set picURL="">ADV</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.</text>
+</card>
+<card>
+    <name>Iridun, Wildheart</name>
+    <set picURL="">ADV</set>
+    <color>RGW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a creature spell with power 5 or greater, put a stampede counter on Iridun, Wildheart.
+Creature spells you cast with power 5 or creature cost {1} less to cast for each stampede counter on Iridun.</text>
+</card>
+<card>
+    <name>Krumar, Ancestral Warden</name>
+    <set picURL="">ADV</set>
+    <color>WBG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}, Remove X +1/+1 counters from among any number of creatures you control: Cast a creature spell from your hand with converted mana cost X without paying its mana cost.</text>
+</card>
+<card>
+    <name>Minerva, Calamity Reaver</name>
+    <set picURL="">ADV</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}, Sacrifice a land: Put a creature from your hand with converted mana cost equal to or less than the combat damage you dealt to opponents this turn onto the battlefield. Then you may have it fight target creature an opponent controls.</text>
+</card>
+<card>
+    <name>Nu, Etherium Progeny</name>
+    <set picURL="">ADV</set>
+    <color>WUB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}: Target noncreature artifact you control with converted mana cost X becomes an artifact creature with power and toughness each equal to its converted mana cost.
+{X}: Target nonartifact creature you control with converted mana cost X becomes an artifact.</text>
+</card>
+<card>
+    <name>Sekh, Kheru Overlord</name>
+    <set picURL="">ADV</set>
+    <color>UBG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}: Put the top X cards of your library into your graveyard, then put X ritual counters on Sekh, Kheru Overlord.
+{T}, Remove X ritual counters from Sekh: Put a card from your graveyard with converted mana cost X on top of your library.</text>
+</card>
+<card>
+    <name>Thana, Torchlight Tyrant</name>
+    <set picURL="">ADV</set>
+    <color>UBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature you control dies, you may create a 0/1 Zombie Feed token.
+Sacrifice 2 Zombies: Add {B} or {R} to your mana pool, then create a 2/2 Zombie Skaab token.</text>
+</card>
+<card>
+    <name>Xion, Infinity Vessel</name>
+    <set picURL="">ADV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>If you would draw a card while your library has no cards in it, you may instead cast a card you own from outside of the game without paying its mana cost.</text>
+</card>
+<card>
+    <name>Ygi, Worldtree Seedling</name>
+    <set picURL="">ADV</set>
+    <color>WG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Put a nurture counter on each token creature you control.
+{X}, {T}, Exile a token creature you control with X nurture counters on it: Search your library for a creature card with converted mana cost X that shares a creature type with the exiled token and put it onto the battlefield under your control.</text>
+</card>
+<card>
+    <name>Yukagir, Power Manifest</name>
+    <set picURL="">ADV</set>
+    <color>URG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{U}{R}{G}, Turn a creature you control face down: Turn another creature you control face up.
+Face down creatures without morph have morph X, where X is their converted mana cost plus one.</text>
+</card>
+<card>
+    <name>Zarkuul, Font of Predation</name>
+    <set picURL="">ADV</set>
+    <color>BRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control without Devour have Devour 1. (As the creature comes into play, you may sacrifice any number of creatures. It comes into play with that many +1/+1 counters on it.)
+Whenever a creature you control would be devoured, you may move all +1/+1 counters from that creature to the creature that would devour it, then devour it.</text>
+</card>
+<card>
+    <name>Zhu Long, Jeskai Ascendant</name>
+    <set picURL="">ADV</set>
+    <color>URW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}, {T}: The next instant or sorcery spell you cast from your hand this turn gains rebound. (Exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
+</card>
+  </cards>
+</cockatrice_carddatabase>
