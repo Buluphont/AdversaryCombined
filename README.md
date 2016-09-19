@@ -26,7 +26,7 @@ Besides searching for their names, you can also use a Filtered search in Cockatr
 # Anatomy of an Adversary
 ![Anatomy of an Adversary](http://i.imgur.com/2MWbU30.png)
 
-# BASIC RULES LIST
+# Basic Rules
 - RULE ONE: Adversaries are not permanents, but they can still tap for convenience.
 - RULE TWO: An Adversary's starting hand size is also considered their maximum hand size.
 - RULE THREE: All players have one free mulligan (a free mulligan means drawing a new starting hand without reducing your starting hand size).
@@ -37,7 +37,7 @@ Besides searching for their names, you can also use a Filtered search in Cockatr
 - COMPREHENSIVE RULES
 http://pastebin.com/bJq3e8kS
 
-# FREQUENTLY ASKED QUESTIONS
+# Frequently Asked Questions
 Q. Isn't this just a rip-off of Vanguard?  
 A. Yes, although it's less of an attempt to plagiarize it and more of an attempt to revive it with the addition of custom cards and more finely tuned balancing.
  
@@ -50,17 +50,17 @@ A. Yes. Damage counts as life loss (although life loss does not count as damage)
 Q. Where does Deus summon his other Adversaries from?  
 A. They are placed in the sideboard.
 
-# GENERAL BANLIST (Adversary uses the official Modern banlist.)
+# Banlists (Adversary uses the official Modern banlist.)
 http://magic.wizards.com/en/gameinfo/gameplay/formats/bannedrestricted
  
-ADVERSARY SPECIFIC (It is very rare that a card would be banned for a specific Adversary, but some combos are just too broken.)
+##ADVERSARY SPECIFIC(It is very rare that a card would be banned for a specific Adversary, but some combos are just too broken.)
 - Falgore, Risen Necrolord
     Ad Nauseam
 - Velan, Cursed Empress:
     Sanguine Bond
     Defiant Bloodlord
 
-# LEVEL GUIDELINE
+# Level Guideline
 This is a guide detailing what it means for an Adversary to be at a certain Level. The Playable VS. Range indicates which Adversary levels it is 'safe' to play with, in that the matchup isn't so imbalanced as to be unplayable. Bear in mind that this isn't always correct; some Adversaries can be direct counters to others. A Level 1 Adversary may be able to destroy a Level 5 Adversary with the right ability.
  
 Level 1: The most balanced Adversaries. Gameplay is nearly unaltered.
@@ -77,3 +77,6 @@ Playable VS. Range: 3-4 or multiple 2's.
  
 Level 5: Don't even try.
 Playable VS. Range: 5 or multiple 3-4's.
+
+# Main Set Adversary Previews
+http://imgur.com/a/rWHTk
