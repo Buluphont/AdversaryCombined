@@ -322,9 +322,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Equipment and Aura spells you cast cost {1} less.
-{1}{W}{W}, {T}: Return target Equipment or Aura card from your graveyard to your hand.
-{1}{W}{W}, {T}: Look at the top four cards of your library, you may reveal a Human card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    <text>Whenever you cast an enchantment spell, you gain 3 life.
+{1}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
 </card>
 <card>
     <name>Malum, the Usurper Queen</name>
