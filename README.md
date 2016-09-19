@@ -1,4 +1,4 @@
-[GardEvelyn's Adversary Logo](https://i.sli.mg/DTlWEm.png)
+![GardEvelyn's Adversary Logo](https://i.sli.mg/DTlWEm.png)
 
 # AdversaryCombined
 Base Set + MSE-ADV + MSE-ADV2, for easy consumption.
