@@ -79,3 +79,6 @@ Playable VS. Range: 5 or multiple 3-4's.
 
 # Main Set Adversary Previews
 http://imgur.com/a/rWHTk
+
+# Supplemental Information
+[Generic Adversary Abilities for Draft](http://pastebin.com/4EhxRiah)
