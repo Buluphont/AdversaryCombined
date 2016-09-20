@@ -57,7 +57,7 @@ If that adversary's controller cannot come up with a good answer, counter that a
     <color>U</color>
     <manacost>2U</manacost>
     <cmc>3</cmc>
-    <type>Adversary</type>
+    <type>Enchantment</type>
     <tablerow>1</tablerow>
     <text>Enchant female Adversary
 Enchanted permanent cannot be untapped until its creator officially states that the art is not indicative of their breast size.</text>

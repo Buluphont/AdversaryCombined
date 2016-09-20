@@ -17,7 +17,7 @@
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Creatures you control have Soulbond.
-	Paired creatures you control have +1/+1.</text>
+Paired creatures you control have +1/+1.</text>
 </card>
 <card>
     <name>Askmunt, Wandering Sage</name>
@@ -326,7 +326,7 @@ Whenever a player casts an artifact, creature, enchantment or planeswalker spell
 </text>
 </card>
 <card>
-    <name>Pelemor, Patriach of the Bereaved</name>
+    <name>Pelemor, Patriarch of the Bereaved</name>
     <set picURL="">MSE-ADV2</set>
     <color>UB</color>
     <manacost></manacost>
