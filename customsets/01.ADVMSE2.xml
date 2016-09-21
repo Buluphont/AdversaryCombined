@@ -86,7 +86,7 @@ At the beginning of each end step, if you control a creature not named Shem, Loe
 </card>
 <card>
     <name>Shem</name>
-    <set rarity="" muId="0">TK</set>
+    <set picURL="">MSE-ADV2</set>
     <color>R</color>
     <type>Token Legendary Creature - Golem</type>
     <pt>3/3</pt>
@@ -140,8 +140,8 @@ At the beginning of your upkeep, if you control four or more fortified lands, dr
 Purple permanents you control have the abilities of every other purple permanent.</text>
 </card>
 <card>
-    <name>Abomination</name>
-    <set rarity="" muId="0">TK</set>
+    <name>Abomination </name>
+    <set rarity="" muId="0">MSE-ADV2</set>
     <color>P</color>
     <type>Token Creature - Abomination</type>
     <pt>*/*</pt>
