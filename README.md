@@ -54,10 +54,10 @@ http://magic.wizards.com/en/gameinfo/gameplay/formats/bannedrestricted
  
 ##ADVERSARY SPECIFIC(It is very rare that a card would be banned for a specific Adversary, but some combos are just too broken.)
 - Falgore, Risen Necrolord:
-    - Ad Nauseam
+    - [Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)
 - Velan, Cursed Empress:
-    - Sanguine Bond
-    - Defiant Bloodlord
+    - [Sanguine Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376480)
+    - [Defiant Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401855)
 
 # Level Guideline
 This is a guide detailing what it means for an Adversary to be at a certain Level. The Playable VS. Range indicates which Adversary levels it is 'safe' to play with, in that the matchup isn't so imbalanced as to be unplayable. Bear in mind that this isn't always correct; some Adversaries can be direct counters to others. A Level 1 Adversary may be able to destroy a Level 5 Adversary with the right ability.
