@@ -51,7 +51,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <color>UR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.
+    <text>Token artifact creatures you control have Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
 Sacrifice an artifact creature you control, {U}{R}: Abigail, Exiled Inventor deals damage to target creature equal to the sacrificed creatures power.</text>
 </card>
 <card>
