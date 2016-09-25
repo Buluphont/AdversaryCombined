@@ -308,17 +308,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <text>Whenever a notoken creature you control dies, you may pay {3}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
 </card>
 <card>
-    <name>Pirraka, Insanity Scribe</name>
-    <set num="32" picURL="">MSE-ADV</set>
-    <color>UR</color>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>If you would draw a card, you may instead draw a card from the bottom of your library.
-{U/R}: Put the top card of your library on the bottom of your library.</text>
-</card>
-<card>
     <name>Serena, Goldnight Angel</name>
-    <set num="33" picURL="">MSE-ADV</set>
+    <set num="32" picURL="">MSE-ADV</set>
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -327,7 +318,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 </card>
 <card>
     <name>Malum, the Usurper Queen</name>
-    <set num="34" picURL="">MSE-ADV</set>
+    <set num="33" picURL="">MSE-ADV</set>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -336,11 +327,20 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 </card>
 <card>
     <name>Narameya, the Flow of Elements</name>
-    <set num="35" picURL="">MSE-ADV</set>
+    <set num="34" picURL="">MSE-ADV</set>
     <color>WUBRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever you cast a creature for its evoke cost, if you would sacrifice it when it comes into play you may instead sacrifice it at end of turn. It gains haste.</text>
+</card>
+<card>
+    <name>Viktoria, Archmage of Herons</name>
+    <set num="35" picURL="">MSE-ADV</set>
+    <color>GW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Humans you control gain "{W}: This creature gains indestructible until end of turn" until end of turn.
+As long as you control a Human and Viktoria, Archmage of Herons is untapped, you have hexproof.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>

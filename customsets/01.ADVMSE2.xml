@@ -88,7 +88,7 @@ At the beginning of each end step, if you control a creature not named Shem, Loe
     <name>Shem</name>
     <set picURL="">MSE-ADV2</set>
     <color>R</color>
-    <type>Token Legendary Creature - Golem</type>
+    <type>Token Legendary Artifact Creature - Golem</type>
     <pt>3/3</pt>
     <tablerow>2</tablerow>
     <token>1</token>
