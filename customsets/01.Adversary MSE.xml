@@ -334,8 +334,46 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <text>Whenever you cast a creature for its evoke cost, if you would sacrifice it when it comes into play you may instead sacrifice it at end of turn. It gains haste.</text>
 </card>
 <card>
-    <name>Viktoria, Archmage of Herons</name>
+    <name>Alycia, Archmage of Goldnight</name>
     <set num="35" picURL="">MSE-ADV</set>
+    <color>RW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature would deal damage, it deals that much damage plus 1 instead.
+{R/W}, {T}: Target Human gains first strike until end of turn.</text>
+</card>
+<card>
+    <name>Johanna, Archmage of Moonsilver</name>
+    <set num="36" picURL="">MSE-ADV</set>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Put the top four cards of your library into your graveyard. Return a Human or Angel card from your graveyard to your hand.
+Delirium — Exile four cards of different types from your graveyard: Destroy all creatures. Activate this ability only if there are four or more card types among cards in your graveyard.</text>
+</card>
+<card>
+    <name>Laurela, Archmage of Alabaster</name>
+    <set num="37" picURL="">MSE-ADV</set>
+	<related>Spirit</related>
+    <color>WU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You may cast Aura spells from your graveyard.
+{T}: Exile any number of creature cards from your graveyard. Put X 1/1 white Spirit creature tokens with flying onto the battlefield, where X is equal to the numbr of creatures exiled by this effect.</text>
+</card>
+<card>
+    <name>Laurycia, Archmage of Nightmares</name>
+    <set num="38" picURL="">MSE-ADV</set>
+    <color>RWU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You may cast Eldrazi spells using mana of any color.
+Eldrazi and Horror creatures you control have trample.
+Whenever a player casts a spell of converted mana cost 4 or greater, you may pay {C}. If you do, draw a card.</text>
+</card>
+<card>
+    <name>Viktoria, Archmage of Herons</name>
+    <set num="39" picURL="">MSE-ADV</set>
     <color>GW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
