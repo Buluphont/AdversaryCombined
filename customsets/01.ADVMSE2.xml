@@ -382,5 +382,91 @@ Whenever a player casts an artifact, creature, enchantment or planeswalker spell
 At the beginning of your upkeep, if you are the monarch, you may return target creature from your graveyard to your hand. Any player may pay 2 life to counter this ability.
 </text>
 </card>
+<card>
+    <name>Dyph, Obscrra Priestess</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> Pay 3 life, {B}{B}, {T}: Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.</text>
+</card>
+<card>
+    <name>Fienshield, Malevolent Defense</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> Whenever you would sacrifice a creature, you may deal 1 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Flyne, Cultivator of the Meek</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>GU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> {G}{G}, {T}: Put a +1/+1 counter on target creature you control with power 3 or less. As you use this ability, you may pay {1} to have it target one more creature you control.
+Nontoken creatures you control with power 3 or less have "Remove a +1/+1 counter from this creature, {G}{U}, {T}: Draw a card or Scry 2."</text>
+</card>
+<card>
+    <name>Mehmiqar, Essence Fiend</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature you control enters the battlefield under your control, put an essence counter on Mehmiqar, Essence Fiend.
+{T}, Remove two essence counters from Mehmiqar: Mehmiqar deals 1 damage to target creature or player.
+{T}, Remove three essence counters from Mehmiqar: Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+    <name>Pranam Thop Squad</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text> Whenever an artifact creature deals combat damage, you may untap target creature.
+{R}{W}, {T}: Target Vehicle becomes a creature until end of turn.</text>
+</card>
+<card>
+    <name>Sperell, Mana Mender</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}, {T}: The next instant or sorcery spell you cast has lifelink until end of turn.</text>
+</card>
+<card>
+    <name>Tihun, Justicar Exile</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you discard a card, put a rebel counter on Tihun, Justicar Exile for each card discarded.
+Remove four rebel counters from Tihun, {T}: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+</card>
+<card>
+    <name>Unhalmen, Exsquisite Corpse</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a Zombie enters the battlefiend under your control, place a +1/+1 counter on it.
+Remove two +1/+1 counters from target creature you control: Target creature has indestructible until end of turn.</text>
+</card>
   </cards>
 </cockatrice_carddatabase>
