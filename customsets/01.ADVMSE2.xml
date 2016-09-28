@@ -465,8 +465,7 @@ Remove four rebel counters from Tihun, {T}: Gain control of target creature unti
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a Zombie enters the battlefiend under your control, place a +1/+1 counter on it.
-Remove two +1/+1 counters from target creature you control: Target creature has indestructible until end of turn.</text>
+    <text>Remove X +1/+1 counter from target creature you control, {T}: Create X amount of 1/1 Zombie creature tokens.</text>
 </card>
   </cards>
 </cockatrice_carddatabase>
