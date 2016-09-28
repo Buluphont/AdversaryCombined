@@ -82,4 +82,3 @@ http://imgur.com/a/rWHTk
 
 # Supplemental Information
 [Generic Adversary Abilities for Draft](http://pastebin.com/4EhxRiah)
-gard a mean
