@@ -214,14 +214,6 @@ If a creature a player controls attacks, all creatures that player controls atta
 {1}{U}{R}, {T}: Return target creature to its owners hand.</text>
 </card>
 <card>
-    <name>Luciana, Matriarch of Warfare</name>
-    <set num="21" picURL="">MSE-ADV</set>
-    <color>WR</color>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player.</text>
-</card>
-<card>
     <name>Guardian of Llanowar</name>
     <set num="22" picURL="">MSE-ADV</set>
     <color>G</color>
