@@ -305,7 +305,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a notoken creature you control dies, you may pay {3}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
+    <text>Whenever a notoken creature you control dies, you may pay {4}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
 </card>
 <card>
     <name>Serena, Goldnight Angel</name>
