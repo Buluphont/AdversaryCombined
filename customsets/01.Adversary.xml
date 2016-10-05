@@ -325,7 +325,7 @@ All creature cards gain suspend 2, where the suspend cost is equal to the creatu
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Equipment you control have equip {0}.
+    <text>Equip costs you pay are {1} less.
 Metalcraft - As long as you control three or more artifacts, creatures you control get +1/+0 for each Equipment attached to them.</text>
 </card>
 <card>
