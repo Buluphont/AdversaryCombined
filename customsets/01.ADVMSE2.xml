@@ -444,5 +444,99 @@ Remove four rebel counters from Tihun, {T}: Gain control of target creature unti
     <tablerow>1</tablerow>
     <text>Remove X +1/+1 counter from target creature you control, {T}: Create X amount of 1/1 Zombie creature tokens.</text>
 </card>
+<card>
+    <name>Rehoma, Dryad of Moons</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Each creature card in your graveyard has unearth {2}{B}{G}.</text>
+</card>
+<card>
+    <name>Amminasta, Mischevious Maid</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>GU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}{G}{U}, {T}: Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.</text>
+</card>
+<card>
+    <name>Olphelos, Grandeur Librarian</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>URG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an opponent shuffles their library, put a mind counter on Olphelos, Grandeur Librarian.
+Remove X mind counters from Olphelos, {T}: You may cast a card from your hand with converted mana cost of X without paying its mana cost. X cannot be 0.</text>
+</card>
+<card>
+    <name>Kaolina, Spectrum Geist</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>GWU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Target noncreature enchantment you control becomes an enchantment creature with “This creature’s power and toughness is equal to its converted mana cost” until end of turn</text>
+</card>
+<card>
+    <name>Glimmersight, Starry Ascendant</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WUB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast an enchantment spell, create a 1/1 white Soldier enchantment creature token with haste and sacrifice it at your next end step.</text>
+</card>
+<card>
+    <name>Quobil, Tumultous Shaman</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>URG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Return a creature you control to its owner's hand, {T}: Target creature gains +X/+X until end of turn, where X is the converted mana cost of the creature returned this way.</text>
+</card>
+<card>
+    <name>Hermasok, Warlord Tyrant</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Warriors your control are Soldiers in addition to their other types.
+Soldiers your control are Warriors in addition to their other types.
+Whenever you discard a Warrior card, Hermasok, Warlord Tyrant deals 1 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Kabbelar, Polymorphist</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WUB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, you may pay {1} and return an artifact you control to your hand. If you do, put an artifact with converted X or less onto the battlefield under your control, where X is the first artifact's converted mana cost minus one</text>
+</card>
+<card>
+    <name>Sammarah the Gnostic</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You have no maximum hand size.
+At the beginning of your upkeep, your life total becomes equal to the number of cards in your hand.</text>
+</card>
   </cards>
 </cockatrice_carddatabase>
