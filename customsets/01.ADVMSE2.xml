@@ -265,15 +265,16 @@ Whenever a creature with power 5 or greater enters the battlefield, search your 
 Whenever a nontoken creature enters the battlefield, you may pay {W/U}, if you do, create a 1/1 colorless Myr artifact creature token.</text>
 </card>
 <card>
-    <name>Ayun, Scribe of the Void</name>
+    <name>Iustus, Noble Justicar</name>
     <set picURL="">MSE-ADV2</set>
     <color>WU</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>When you detain a creature, you may draw a card or put a +1/+1 counter on target creature.
-{3}{W}{U}, {T}: Detain target creature.</text>
+    <text>At the beginning of your upkeep, you may pay {W}{U}. If you do, detain target creature.
+Whenever a permanent's triggered ability triggers, if that permanent is detained, counter that ability.
+Detained creatures have shroud, can't have counters put on them, and can't be sacrificed or crew Vehicles.</text>
 </card>
 <card>
     <name>Bhadim, Baroness of Form</name>
@@ -537,6 +538,61 @@ Whenever you discard a Warrior card, Hermasok, Warlord Tyrant deals 1 damage to 
     <tablerow>1</tablerow>
     <text>You have no maximum hand size.
 At the beginning of your upkeep, your life total becomes equal to the number of cards in your hand.</text>
+</card>
+<card>
+    <name>Azerem, Heirloom Psychic</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an artifact enters the battlefield under your control, scry 1.
+Whenever an artifact you control is put into your graveyard from the battlefield, you may pay {2}. If you do, draw a card.</text>
+</card>
+<card>
+    <name>Gheramim, Sigil Carver</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>W</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an artifact enters the battlefield under your control, target creature gains hexproof and protection from color of your choice until end of turn.
+Whenever an artifact you control is put into your graveyard from the battlefield, you gain 2 life </text>
+</card>
+<card>
+    <name>Turpemni, Geocrafter</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>G</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an artifact enters the battlefield under your control, target creature you control gains +1/+1 until end of turn.
+Whenever an artifact you control is put into your graveyard from the battlefield, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+    <name>Vem, Voidshaper</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an artifact enters the battlefield under your control, you may pay {1}. If you do, target opponent loses 1 life.
+Whenever an artifact you control is put into your graveyard from the battlefield, you may pay {2}. If you do, return target artifact card from your graveyard to your hand.</text>
+</card>
+<card>
+    <name>Prevacia, Dissolver of Arms</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>R</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an artifact enters the battlefield under your control, you may discard a card, then draw a card.
+Whenever an artifact you control is put into your graveyard from the battlefield, Prevacia, Dissolver of Arms deals 1 damage to target creature or player.</text>
 </card>
   </cards>
 </cockatrice_carddatabase>
