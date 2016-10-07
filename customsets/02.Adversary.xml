@@ -95,5 +95,127 @@ Whenever a nonland permanent enters the battlefield, choose a random player. Tha
 At the beginning of your upkeep, gain 5 life. You cannot gain life in any other way.
 Pay 2 life: Add one mana of any color to your mana pool.</text>
 </card>
+<card>
+    <name>Ettendaal, Arms Dealer</name>
+    <set picURL="">MDV</set>
+	<related>Armament</related>
+    <color>KW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player creates an Equipment artifact token named Armament that has "Equipped creature gets +1/+1" and Equip {1}.</text>
+</card>
+<card>
+    <name>Armament</name>
+    <set picURL="">MDV</set>
+    <color></color>
+    <type>Token Artifact — Equipment</type>
+    <tablerow>1</tablerow>
+    <text>Equipped creature gets +1/+1.
+Equip {1}</text>
+	<token>1</token>
+</card>
+<card>
+    <name>Cemorna, Sundancer</name>
+    <set picURL="">MDV</set>
+    <color>KG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player adds {G} to their mana pool at the beginning of their next precombat main phase..</text>
+</card>
+<card>
+    <name>Kanxi, Master of Procurement</name>
+    <set picURL="">MDV</set>
+    <color>KU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player may draw a card, then discard a card.</text>
+</card>
+<card>
+    <name>Thedrid, Ornithomancer</name>
+    <set picURL="">MDV</set>
+	<related>Bird </related>
+    <color>KW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player creates a 1/1 white Bird creature token with flying.</text>
+</card>
+<card>
+    <name>Veela, Excavator</name>
+    <set picURL="">MDV</set>
+	<related>Bird </related>
+    <color>KB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player may put up to one target creature card on top of his or her library from his or her graveyard.</text>
+</card>
+<card>
+    <name>Rowenna, Cryptologist</name>
+    <set picURL="">MDV</set>
+	<related>Bird </related>
+    <color>KP</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Each player returns a card at random that he or she owns in exile to his or her hand.</text>
+</card>
+<card>
+    <name>Gard the Draconian</name>
+    <set picURL="">MDV</set>
+	<related>Bird </related>
+    <color>WB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}{W}{B}, {T}: Exile target Adversary. Its controller loses 2 life.</text>
+</card>
+<card>
+    <name>Rokestra, the Infinite Knowledge</name>
+    <set picURL="">MDV</set>
+	<related>Bird </related>
+    <color>P</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of the game, draw every card in your library. You cannot draw cards. You have no maximum hand size and cannot cast spells.
+{X}: Play a random spell with a converted mana cost of X from your hand.</text>
+</card>
+<card>
+    <name>Tea Break</name>
+    <set picURL="">MDV</set>
+    <color>WG</color>
+    <manacost>G/W</manacost>
+    <cmc>1</cmc>
+    <type>Instant</type>
+    <tablerow>3</tablerow>
+    <text>Pause the game and have a break. If you drink tea during this break, populate.</text>
+</card>
+<card>
+    <name>The Deepest Lore</name>
+    <set picURL="">MDV</set>
+    <color>R</color>
+    <manacost>1R</manacost>
+    <cmc>2</cmc>
+    <type>Sorcery</type>
+    <tablerow>3</tablerow>
+    <text>The Deepest Lore deals damage equal to the number of lines of flavor text that target spell or permanent has to target creature minus the number of lines of flavor text it has.</text>
+</card>
+<card>
+    <name>Waifu Upgrade</name>
+    <set picURL="">MDV</set>
+    <color>W</color>
+    <manacost>1W</manacost>
+    <cmc>2</cmc>
+    <type>Enchantment — Aura</type>
+    <tablerow>1</tablerow>
+    <text>Enchant nonlegendary creature
+Enchanted creature becomes legendary in addition to its other types and gets +2/+2. Give it a female name that includes its current name as a suffix.</text>
+</card>
+<card>
+    <name>Waifu Shrine</name>
+    <set picURL="">MDV</set>
+    <color></color>
+    <manacost>2</manacost>
+    <cmc>2</cmc>
+    <type>Artifact</type>
+    <tablerow>1</tablerow>
+    <text>When Waifu Shrine enters the battlefield, name a creature with female art in your library. That creature gets +1/+1, gains flying, and becomes an Angel in addition to its other types.</text>
+</card>
   </cards>
 </cockatrice_carddatabase>
