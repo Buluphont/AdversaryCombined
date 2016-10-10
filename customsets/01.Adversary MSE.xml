@@ -11,6 +11,7 @@
 <card>
     <name>Serena, Last of Goldnight</name>
     <set num="1" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>WR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -20,6 +21,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
 <card>
     <name>Castelia, the Resolute</name>
     <set num="2" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
 	<related>Castelia's Charge</related>
     <color>WUR</color>
     <type>Adversary</type>
@@ -39,6 +41,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
 <card>
     <name>Alida, Fleeting Spirit</name>
     <set num="3" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>WUB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -48,6 +51,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
 <card>
     <name>Abigail, Exiled Inventor</name>
     <set num="4" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>UR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -57,6 +61,7 @@ Sacrifice an artifact creature you control, {U}{R}: Abigail, Exiled Inventor dea
 <card>
     <name>Thordaw, Werewolf Alpha</name>
     <set num="5" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>RG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -66,6 +71,7 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
 <card>
     <name>Haniel, Unrelenting Rider</name>
     <set num="6" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>WB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -74,6 +80,7 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
 <card>
     <name>Gurbal, Grand Culinary Master</name>
     <set num="7" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -83,6 +90,7 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
 <card>
     <name>Shideh-Merle, Aurashaper</name>
     <set num="8" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>GWU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -91,6 +99,7 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
 <card>
     <name>Accenu, Ancestral Animist</name>
     <set num="9" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
 	<related>Spirit       </related>
     <color>W</color>
     <type>Adversary</type>
@@ -111,6 +120,7 @@ Whenever a Spirit creature you control would be destroyed, if it is equipped, yo
 <card>
     <name>Falenari, Grand Gardener</name>
     <set num="10" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>G</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -119,6 +129,7 @@ Whenever a Spirit creature you control would be destroyed, if it is equipped, yo
 <card>
     <name>Xoldevak, Rotting Incarnate</name>
     <set num="11" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>GB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -128,6 +139,7 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
 <card>
     <name>Kalaron, Guild Leader</name>
     <set num="12" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -137,6 +149,7 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
 <card>
     <name>Miria, the Living Woods</name>
     <set num="13" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -145,6 +158,7 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
 <card>
     <name>Castelia, Shield of Avemarc</name>
     <set num="14" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -153,6 +167,7 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
 <card>
     <name>Menorath, Stronghold Veteran</name>
     <set num="15" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -162,6 +177,7 @@ Creatures you control with defender lose defender.</text>
 <card>
     <name>Advorian, Warmonger</name>
     <set num="16" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>R</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -171,6 +187,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Dominaria Awoken</name>
     <set num="17" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -180,6 +197,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Wenela, Ecotitan</name>
     <set num="18" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
 	<related>Horror    </related>
     <color>GU</color>
     <type>Adversary</type>
@@ -199,6 +217,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Jimilix, Paradox Magus</name>
     <set num="19" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>U</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -207,6 +226,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Memere, Turner of Essence</name>
     <set num="20" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>UR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -216,6 +236,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Guardian of Llanowar</name>
     <set num="22" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>G</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -224,6 +245,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Kamirth, Dragon of Leylines</name>
     <set num="23" picURL="">MSE-ADV</set>
+	<cmc>4</cmc>
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -232,6 +254,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Borgue, Artificer Savant</name>
     <set num="24" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>UR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -240,6 +263,7 @@ If a creature a player controls attacks, all creatures that player controls atta
 <card>
     <name>Shirdar, Dread Doctor</name>
     <set num="25" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>B</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -249,6 +273,7 @@ At the beginning of your upkeep, if Shirdar has six or more hex counters on it, 
 <card>
     <name>Bao Xue, Merchant of Secrets</name>
     <set num="26" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>GU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -258,6 +283,7 @@ No more than two creatures may attack each combat.</text>
 <card>
     <name>Ali and Rosa, the Flames of Passion</name>
     <set num="27" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>WBR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -267,6 +293,7 @@ No more than two creatures may attack each combat.</text>
 <card>
     <name>Ji-Min, Sunblessed of Raju</name>
     <set num="28" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>GWU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -276,6 +303,7 @@ Permanents you control with exaltation counters have exalted.</text>
 <card>
     <name>Luru, Priestess of Sanguinus</name>
     <set num="29" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>UBR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -285,6 +313,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Padma, Overseer of the Foundry</name>
     <set num="30" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>WUB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -294,6 +323,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Vida, the Necrotic Flame</name>
     <set num="31" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -302,6 +332,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Serena, Goldnight Angel</name>
     <set num="32" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -311,6 +342,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Malum, the Usurper Queen</name>
     <set num="33" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -320,6 +352,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Narameya, the Flow of Elements</name>
     <set num="34" picURL="">MSE-ADV</set>
+	<cmc>4</cmc>
     <color>WUBRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -328,6 +361,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Alycia, Archmage of Goldnight</name>
     <set num="35" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -337,6 +371,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
 <card>
     <name>Johanna, Archmage of Moonsilver</name>
     <set num="36" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -346,6 +381,7 @@ Delirium — Exile four cards of different types from your graveyard: Destroy al
 <card>
     <name>Laurela, Archmage of Alabaster</name>
     <set num="37" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
 	<related>Spirit</related>
     <color>WU</color>
     <type>Adversary</type>
@@ -356,6 +392,7 @@ Delirium — Exile four cards of different types from your graveyard: Destroy al
 <card>
     <name>Laurycia, Archmage of Nightmares</name>
     <set num="38" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>RWU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -366,6 +403,7 @@ Whenever a player casts a spell of converted mana cost 4 or greater, you may pay
 <card>
     <name>Viktoria, Archmage of Herons</name>
     <set num="39" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
     <color>GW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>

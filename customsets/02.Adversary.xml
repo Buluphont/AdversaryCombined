@@ -102,7 +102,7 @@ Pay 2 life: Add one mana of any color to your mana pool.</text>
     <color>KW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Each player creates an Equipment artifact token named Armament that has "Equipped creature gets +1/+1" and Equip {1}.</text>
+    <text>{R}, {T}: Each player creates an Equipment artifact token named Armament that has "Equipped creature gets +1/+1" and Equip {1}.</text>
 </card>
 <card>
     <name>Armament</name>
@@ -120,7 +120,7 @@ Equip {1}</text>
     <color>KG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Each player adds {G} to their mana pool at the beginning of their next precombat main phase..</text>
+    <text>{G}, {T}: Each player adds {G} to their mana pool at the beginning of their next precombat main phase..</text>
 </card>
 <card>
     <name>Kanxi, Master of Procurement</name>
@@ -128,7 +128,7 @@ Equip {1}</text>
     <color>KU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Each player may draw a card, then discard a card.</text>
+    <text>{U}, {T}: Each player may draw a card, then discard a card.</text>
 </card>
 <card>
     <name>Thedrid, Ornithomancer</name>
@@ -137,21 +137,19 @@ Equip {1}</text>
     <color>KW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Each player creates a 1/1 white Bird creature token with flying.</text>
+    <text>{W}, {T}: Each player creates a 1/1 white Bird creature token with flying.</text>
 </card>
 <card>
     <name>Veela, Excavator</name>
     <set picURL="">MDV</set>
-	<related>Bird </related>
     <color>KB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Each player may put up to one target creature card on top of his or her library from his or her graveyard.</text>
+    <text>{B}, {T}: Each player may put up to one target creature card on top of his or her library from his or her graveyard.</text>
 </card>
 <card>
     <name>Rowenna, Cryptologist</name>
     <set picURL="">MDV</set>
-	<related>Bird </related>
     <color>KP</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -160,7 +158,6 @@ Equip {1}</text>
 <card>
     <name>Gard the Draconian</name>
     <set picURL="">MDV</set>
-	<related>Bird </related>
     <color>WB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
@@ -169,7 +166,6 @@ Equip {1}</text>
 <card>
     <name>Rokestra, the Infinite Knowledge</name>
     <set picURL="">MDV</set>
-	<related>Bird </related>
     <color>P</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
