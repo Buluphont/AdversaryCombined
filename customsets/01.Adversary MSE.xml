@@ -396,9 +396,8 @@ Delirium — Exile four cards of different types from your graveyard: Destroy al
     <color>RWU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>You may cast Eldrazi spells using mana of any color.
-Eldrazi and Horror creatures you control have trample.
-Whenever a player casts a spell of converted mana cost 4 or greater, you may pay {C}. If you do, draw a card.</text>
+    <text>Costs of Eldrazi spells and permaments can be paid using mana of any color.
+Whenever you cast a non-Eldrazi creature, you may pay {2}. If you do, scry 1 then look at the top card of your library. If it is an Eldrazi spell, you may reveal it and put it into your hand.</text>
 </card>
 <card>
     <name>Viktoria, Archmage of Herons</name>
@@ -409,6 +408,15 @@ Whenever a player casts a spell of converted mana cost 4 or greater, you may pay
     <tablerow>1</tablerow>
     <text>{T}: Humans you control gain "{W}: This creature gains indestructible until end of turn" until end of turn.
 As long as you control a Human and Viktoria, Archmage of Herons is untapped, you have hexproof.</text>
+</card>
+<card>
+    <name>Viktoria, Archmage of Herons</name>
+    <set num="40" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
+    <color>R</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever one or more sources deal damage to you or a creature you control, Palsoria, the Unforgiving deals 1 damage to that source's controller.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
