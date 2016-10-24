@@ -201,7 +201,7 @@ Equip {1}</text>
     <type>Enchantment — Aura</type>
     <tablerow>1</tablerow>
     <text>Enchant nonlegendary creature
-Enchanted creature becomes legendary in addition to its other types and gets +2/+2. Give it a female name that includes its current name as a suffix.</text>
+Enchanted creature becomes a Waifu in addition to its other types and gets +2/+2. Give it a female name that includes its current name as a suffix.</text>
 </card>
 <card>
     <name>Waifu Shrine</name>
@@ -212,6 +212,17 @@ Enchanted creature becomes legendary in addition to its other types and gets +2/
     <type>Artifact</type>
     <tablerow>1</tablerow>
     <text>When Waifu Shrine enters the battlefield, name a creature with female art in your library. That creature gets +1/+1, gains flying, and becomes an Angel in addition to its other types.</text>
+</card>
+<card>
+    <name>Daryl, Hat Among Asses</name>
+    <set picURL="">MDV</set>
+    <color>WBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You may have silver-bordered cards in your deck as long as it includes the word “Ass” on it.
+Whenever you tap a land for mana, add one and a half of any color to your mana pool.
+1/2: Give target creature you control +½/-½ or -½/+½.
+Donkey creatures you control have “T: Add one and a half of any color to your mana pool”</text>
 </card>
   </cards>
 </cockatrice_carddatabase>

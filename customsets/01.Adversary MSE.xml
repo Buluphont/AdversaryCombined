@@ -418,5 +418,15 @@ As long as you control a Human and Viktoria, Archmage of Herons is untapped, you
     <tablerow>1</tablerow>
     <text>Whenever one or more sources deal damage to you or a creature you control, Palsoria, the Unforgiving deals 1 damage to that source's controller.</text>
 </card>
+<card>
+    <name>Erimmont, Woodsin Stalker</name>
+    <set num="41" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
+    <color>GUB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control have evolve.
+At the beginning of each end step, sacrifice all creatures you control with power 6 or greater, then create two 3/3 green Beast creature tokens for each creature sacrificed this way.</text>
+</card>
 </cards>
 </cockatrice_carddatabase>
