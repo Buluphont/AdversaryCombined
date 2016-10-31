@@ -594,5 +594,119 @@ Whenever an artifact you control is put into your graveyard from the battlefield
     <text>Whenever an artifact enters the battlefield under your control, you may discard a card, then draw a card.
 Whenever an artifact you control is put into your graveyard from the battlefield, Prevacia, Dissolver of Arms deals 1 damage to target creature or player.</text>
 </card>
+<card>
+    <name>Spracettic the Many Faced</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you or an opponent plays a multicolored spell, target permanent or spell becomes a color of your choice in addition to its other colors until end of turn.</text>
+</card>
+<card>
+    <name>Avaraxem, Marquis of Memories</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>WUBRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever three or more creatures you control attack, you may return a card with converted mana cost of 2 or less from your graveyard to your hand.</text>
+</card>
+<card>
+    <name>Lorem Lorem, Conformity Liege</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>UB</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of the game, choose a creature type.
+Each creature you control is the chosen type in addition to its other types.</text>
+</card>
+<card>
+    <name>Myndak, Horde Wailer</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>GW</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature token you control dies, you may pay {2}. If you do, put a unity counter on Myndak, Horde Wailer.
+Creature tokens you control get +1/+1 for each unity counter on Myndak.</text>
+</card>
+<card>
+    <name>Kinsami, Sensei of the Meek</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creature cards with dash or skulk in your hand have Ninjutsu X. Their ninjutsu cost is equal to their converted mana cost minus 1. This cost cannot be less than 1.</text>
+</card>
+<card>
+    <name>Zerr of the Burned Forest</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{4}, {T}: Zerr of the Burned Forest deals 2 damage to you and target player. That player can only untap up to 2 lands their next untap phase.</text>
+</card>
+<card>
+    <name>Alsphodel, Cocoon of Progress</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>BR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature you control enters the battlefield, you may pay {3}. If you do, it enters as a copy of another creature on the battlefield.</text>
+</card>
+<card>
+    <name>Crymdye, Keeper of the Sanctum</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>B</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}, {T}: Put the top X cards of your library into your graveyard. Target player loses 1 life for each card type put into your graveyard this way.</text>
+</card>
+<card>
+    <name>Perrel, Strategem Prodigy</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RWU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast a noncreature spell, target creature you control gains +1/+1 until end of turn.
+Tapped creatures you control may block as though they were untapped.</text>
+</card>
+<card>
+    <name>Queen Saladona, Expeditionist</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>GWU</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{G}{W}{U}, {T}: Put an explore counter on target land you don’t control.
+Whenever a land with explore counters on it is tapped, create X 1/1 white soldier tokens, where X is the amount of explore counters on it.</text>
+</card>
+<card>
+    <name>Kyphon, Melder of Souls</name>
+    <set picURL="">MSE-ADV2</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}{R}{G}, {T}: Sacrifice a creature you control, then reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield, then shuffle all other cards revealed this way into your library.</text>
+</card>
   </cards>
 </cockatrice_carddatabase>
