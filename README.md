@@ -54,7 +54,9 @@ http://magic.wizards.com/en/gameinfo/gameplay/formats/bannedrestricted
  
 ##ADVERSARY SPECIFIC(It is very rare that a card would be banned for a specific Adversary, but some combos are just too broken.)
 - Falgore, Risen Necrolord:
-    - [Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)
+	- [Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)
+- Sigvalt, Relentless Khan
+	- [Ad Nauseam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174915)
 - Velan, Cursed Empress:
     - [Sanguine Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376480)
     - [Defiant Bloodlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401855)
