@@ -29,9 +29,8 @@ Besides searching for their names, you can also use a Filtered search in Cockatr
 - RULE ONE: Adversaries are not permanents, but they can still tap for convenience.
 - RULE TWO: An Adversary's starting hand size is also considered their maximum hand size.
 - RULE THREE: All players have one free mulligan (a free mulligan means drawing a new starting hand without reducing your starting hand size).
-- RULE FOUR: Decks should be exactly 61 cards in size, including your Adversary, but this is only a softrule.
-- RULE FIVE: Do not build your deck specifically to exploit infinite combos. The punishment for breaking this rule is simply making everyone stop playing with you, because it can get annoying.
-- RULE SIX: The format is Modern Singleton.
+- RULE FOUR: Decks must contain a minimum of 61 cards, including your Adversary.
+- RULE FIVE: The format is Modern Singleton.
  
 - COMPREHENSIVE RULES
 http://pastebin.com/bJq3e8kS
