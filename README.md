@@ -23,6 +23,7 @@ If you'd like to go one step further, you can host your own complete .xml file w
 - Where can I find other players?
 
 Just pop into our Discord server, which is currently the central hub for all things Adversary and where all the active players congregate.
+
 https://discord.gg/013gVNhXUxwMHwuxy
 
 # To Install or Update
