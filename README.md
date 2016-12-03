@@ -4,7 +4,10 @@
 Base Set + MSE-ADV + MSE-ADV2, for easy consumption.
 
 # Introduction
-Adversary is a custom format for Magic: The Gathering intended to be played over Cockatrice and other online clients.
+Hello, and welcome to Adversary.
+Adversary is a custom MTG format specifically designed to allow players to create and play with their own custom cards. 
+It is largely based on the official Vanguard format of old, but Adversary imposes less restrictions on card concepts and somewhat more restrictions on deckbuilding to offset the obvious balance issues when playing with custom cards.
+We currently have over 75 playable Adversaries in the Main Set alone, and more are being added constantly. Our community is small but growing at an equal pace, and the vast majority of the people you see in our Discord are active players who will be happy to play against you as soon as you've finished your first Adversary deck.
 
 - How is it played?
 
