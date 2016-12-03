@@ -6,18 +6,18 @@ Base Set + MSE-ADV + MSE-ADV2, for easy consumption.
 # Introduction
 Adversary is a custom format for Magic: The Gathering intended to be played over Cockatrice and other online clients.
 
->How is it played?
+- How is it played?
 In Adversary, players select an Adversary card from our existing selection, or create their own. These Adversaries are in play from turn one, and possess abilities that change the way the game is played. If you've ever tried out Vanguard, you'll feel right at home.
 
->How are Adversaries balanced?
+- How are Adversaries balanced?
 Each Adversary is assigned three values: a life total, a starting hand size, and a level. The life total and starting hand size are used to balance Adversaries based on the power of their abilities. In the event that they cannot be effectively balanced this way, Adversaries are also assigned a level, indicating that they are best suited for play against Adversaries of a similar level.
 
->How can I make my own Adversary?
+- How can I make my own Adversary?
 Post your desired rules text, color identity, illustration and artist-to-credit in this thread and I might make it for you! 
 Alternatively, make it yourself in Photoshop or an MTG card creation program and I may add it to the core .xml file.
 If you'd like to go one step further, you can host your own complete .xml file which will require absolutely no moderation from me, which I will be happy to add to future OPs.
 
->Where can I find other players?
+- Where can I find other players?
 Just pop into our Discord server, which is currently the central hub for all things Adversary and where all the active players congregate.
 https://discord.gg/013gVNhXUxwMHwuxy
 
