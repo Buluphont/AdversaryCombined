@@ -24,7 +24,7 @@ If you'd like to go one step further, you can host your own complete .xml file w
 
 Just pop into our Discord server, which is currently the central hub for all things Adversary and where all the active players congregate.
 
-https://discord.gg/013gVNhXUxwMHwuxy
+https://discord.gg/XeXZeJV
 
 # To Install or Update
 1. [Download the latest release here](https://github.com/Buluphont/AdversaryCombined/releases). They're marked as *source code*, but don't worry about that -- no code involved at all.
