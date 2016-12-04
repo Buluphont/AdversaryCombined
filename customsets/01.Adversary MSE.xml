@@ -46,7 +46,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Creatures you control have skulk.
-{W/B}, {T}: Target creature is a Spirit in addition to its other creature types until end of turn.</text>
+{1}{W/B}, {T}: Target creature is a Spirit in addition to its other creature types until end of turn.</text>
 </card>
 <card>
     <name>Abigail, Exiled Inventor</name>
@@ -56,7 +56,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Token artifact creatures you control have Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
-Sacrifice an artifact creature you control, {U}{R}: Abigail, Exiled Inventor deals damage to target creature equal to the sacrificed creatures power.</text>
+{U}{R}, Sacrifice an artifact creature you control: Abigail, Exiled Inventor deals damage to target creature equal to the sacrificed creatures power.</text>
 </card>
 <card>
     <name>Thordaw, Werewolf Alpha</name>
@@ -84,7 +84,7 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
     <color>RG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{2}{G}{G}, Sacrifice a Plant: You gain life equal to the sacrificed Plant's converted mana cost. Draw a card.
+    <text>{2}{G}{G}, Sacrifice a Plant: You gain life equal to the sacrificed Plant's converted mana cost, then draw a card.
 {1}{R}{R}, Sacrifice a Beast: Gurbal, Grand Culinary Master deals 3 damage to target creature or player.</text>
 </card>
 <card>
@@ -249,7 +249,7 @@ If a creature a player controls attacks, all creatures that player controls atta
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Creatures you control have amplify 1.</text>
+    <text>Creatures you control have Amplify 1.</text>
 </card>
 <card>
     <name>Borgue, Artificer Savant</name>
@@ -346,7 +346,7 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a creature attacks the monarch that isn't you, put a +1/+1 count on it.
+    <text>Whenever a creature attacks the monarch that isn't you, put a +1/+1 counter on it.
 {3}{R/G/W}, {T}: Target player becomes the monarch. Only play this ability is you are the monarch.</text>
 </card>
 <card>
@@ -375,8 +375,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}: Put the top four cards of your library into your graveyard. Return a Human or Angel card from your graveyard to your hand.
-Delirium — Exile four cards of different types from your graveyard: Destroy all creatures. Activate this ability only if there are four or more card types among cards in your graveyard.</text>
+    <text>{T}: Put the top four cards of your library into your graveyard, then you may discard a card. If you do, return a Human or Angel card from your graveyard to your hand.
+Delirium — {1}{W}{W}, Exile four cards with different types from your graveyard: Destroy all creatures. Activate this ability only if there are four or more card types among cards in your graveyard and only when you could cast a sorcery.</text>
 </card>
 <card>
     <name>Laurela, Archmage of Alabaster</name>
@@ -427,6 +427,66 @@ As long as you control a Human and Viktoria, Archmage of Herons is untapped, you
     <tablerow>1</tablerow>
     <text>Creatures you control have evolve.
 At the beginning of each end step, sacrifice all creatures you control with power 6 or greater, then create two 3/3 green Beast creature tokens for each creature sacrificed this way.</text>
+</card>
+<card>
+    <name>Ali, Freethinker</name>
+    <set num="42" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
+    <color>WB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control dies, you gain X life, where X is equal to the number of colors that creature was.
+Associate</text>
+</card>
+<card>
+    <name>Rosa, Oathsworn</name>
+    <set num="43" picURL="">MSE-ADV</set>
+	<cmc>2</cmc>
+    <color>BR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a player draws a card, that player may reveal that card. If they do not, Rosa, Oathsworn deals 1 damage to that player.
+Associate</text>
+</card>
+<card>
+    <name>Vyk, Thunder-Thrash Elder</name>
+    <set num="44" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature an opponent controls dies, you may pay {R}. If you do, create a 1/1 red Viashino creature token.
+{2}{B}{G}: Viashino creatures you control get +1/+1 and gain deathtouch until end of turn.</text>
+</card>
+<card>
+    <name>Bius, the World Anchor</name>
+    <set num="45" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
+    <color>URG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature would enter the battlefield with no +1/+1 counters on it, put a +1/+1 counter on it instead.
+{1}, Remove any number of +1/+1 counters from creatures you control, {T}: Bius, the World Anchor deals damage equal to the number of +1/+1 counters removed to target creature or player.</text>
+</card>
+<card>
+    <name>Kaz, the Sunderer</name>
+    <set num="46" picURL="">MSE-ADV</set>
+	<related>Sunder </related>
+	<cmc>3</cmc>
+    <color>RGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of the first upkeep, create a colorless artifact Equipment token named Sunder. It has Equip 3 and “Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature.”"</text>
+</card>
+<card>
+    <name>Sunder </name>
+    <set picURL="">MSE-ADV</set>
+    <color></color>
+    <type>Token Artifact — Equipment</type>
+    <tablerow>1</tablerow>
+    <text>Equip {3}
+Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature.</text>
+	<token>1</token>
 </card>
 </cards>
 </cockatrice_carddatabase>
