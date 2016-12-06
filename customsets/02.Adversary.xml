@@ -71,6 +71,16 @@ Enchanted permanent cannot be untapped until its creator officially states that 
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{3}, {T}: Search for a random card from outside of the game and reveal it. If it's a permanent, put a copy of it onto the battlefield. If it's an instant or sorcery, you may cast a copy of it without paying its mana cost.</text>
+</card>	  
+<card>
+    <name>Khan, Solemn Immortal</name>
+    <set picURL="">ADV</set>
+    <color>BRG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Nontoken creatures you control with no abilities get +2/+2.</text>
 </card>
 <card>
     <name>Pim, Meddling Goddess</name>
