@@ -734,8 +734,8 @@ At the beginning of your end step, remove a fury counter from Sigvaldt.</text>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever you cast a red instant or sorcery spell, you may pay {1}. If you do, put a charge counter on target permanent you control.
-Whenever you cast a blue instant or sorcery spell, you may pay {1}. If you do, move up to two charge counters from one permanent you control to another target permanent.</text>
+    <text>{2}, Remove a charge counter from a permanent you control: You get {E}.
+{2}, Pay {E}: Put a charge counter on target permanent you control.</text>
 </card>
 <card>
     <name>Wyndel, Forest Muse</name>
