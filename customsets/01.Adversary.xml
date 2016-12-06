@@ -327,9 +327,7 @@ Creatures have "{T}: This creature fights target creature. Activate this ability
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{T}, Pay 4 life: Choose one -
-- Target creature gains hexproof until end of turn.
-- The next time a source of your choice would deal damage to target creature this turn, prevent that damage.</text>
+    <text>{T}, Pay 3 life: Target creature gains hexproof until end of turn. The next time a source of your choice would deal damage to it this turn, prevent that damage.</text>
 </card>
 <card>
     <name>Prince Zael, Saint of Blades</name>
