@@ -49,7 +49,8 @@ Abilities that cost generic mana to activate cost {1} more to activate.</text>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{R}{R}, Pay 1 life: Ignis, Raging Pyre deals 2 damage to each creature and each opponent.</text>
+    <text>Whenever a source you control deals damage to an opponent, you may pay 1 life. If you do, put a blaze counter on Ignis, Raging Pyre.
+Remove X blaze counters from Ignis: Deal X damage to target creature. If it dies this turn, its controller loses 2 life.</text>
 </card>
 <card>
     <name>Velan, Cursed Empress</name>
@@ -70,8 +71,8 @@ When an opponent loses life, you gain that much life.</text>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>At the beginning of each opponent's end step, if you took no damage that turn, put a heroism counter on Luxos.
-Creatures you control can block an additional creature.
+    <text>Creatures you control can block an additional creature.
+At the beginning of each opponent's end step, if you took no damage that turn, put a heroism counter on Luxos, Captain of the Guard.
 Remove 10 heroism counters from Luxos: You win the game.</text>
 </card>
 <card>
@@ -195,14 +196,14 @@ When a Snake, Gorgon or Naga creature you control becomes monstrous, put a petri
 {T}:  Activate this ability only once per game any time you could cast a sorcery. Exile a nonland card from target opponent's hand. Until end of turn, you may spend mana as though it were mana of any color to cast it.</text>
 </card>
 <card>
-    <name>Reeve, Dimir Thought-Thief</name>
+    <name>Sonnelotte, Soul Slaver</name>
     <set picURL="">ADV</set>
     <color>UB</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a creature you control deals combat damage to an opponent, that opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts all cards revealed this way into his or her graveyard.</text>
+    <text>Whenever an opponent loses life, that player exiles that many cards from the top of his or her library.</text>
 </card>
 <card>
     <name>Teren, of Benalia</name>
@@ -249,7 +250,8 @@ Soldier creatures you control have Vigilance.</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Players can't cast creature spells from their hands.
-All creature cards gain suspend 2, where the suspend cost is equal to the creature's mana cost. (Rather than cast that card from your hand, you may pay its suspend cost and exile it with 2 time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</text>
+All creature cards gain suspend 2, where the suspend cost is equal to the creature's mana cost. (Rather than cast that card from your hand, you may pay its suspend cost and exile it with 2 time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+{2}, {T}: Choose a counter on a suspended card. Remove that counter from that card or put another of those counters on it.</text>
 </card>
 <card>
     <name>Felith, the Barrage</name>
@@ -264,23 +266,24 @@ All creature cards gain suspend 2, where the suspend cost is equal to the creatu
 <card>
     <name>Goriga, Brood Matriarch</name>
     <set picURL="">ADV</set>
-    <color>RG</color>
+    <color>BRG</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{X}{R}{G}, {T}: Put X 1/1 red Drake creature tokens with flying onto the battlefield.
-{R}{G}, {T}: Put a 0/2 green Egg creature token onto the battlefield. It has "At the beginning of your upkeep, put an incubation counter on this creature." and "{T}, Remove all incubation counters from this creature: This creature becomes a copy of target Dragon with converted mana cost less than or equal to the number of incubation counters removed this way."</text>
+    <text>{X}{B}{R}, {T}: Create X 1/1 black Drake creature tokens with flying.
+{R}{G}, {T}: Create a 0/2 green Egg creature token. It has "At the beginning of your upkeep, put an incubation counter on this creature." and "{T}, Remove X incubation counters from this creature: This creature becomes an X/X red Dragon with flying."</text>
 </card>
 <card>
-    <name>Runna, Knight of the Final Hour</name>
+    <name>Runna, of the Final Hour</name>
     <set picURL="">ADV</set>
     <color>W</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>At the beginning of your upkeep, if you have 7 or less life, draw two cards, gain 3 life, and put four 1/1 white Soldier creature tokens on the battlefield.</text>
+    <text>If a source an opponent controls would deal damage to you, you may pay {X}{X}. If you do, prevent X of that damage.
+At the beginning of your upkeep, if you have 5 or less life, draw a card, create three 1/1 white Soldier creature tokens, gain 5 life. </text>
 </card>
 <card>
     <name>Thrash, Slime-Weaver</name>
@@ -294,16 +297,27 @@ All creature cards gain suspend 2, where the suspend cost is equal to the creatu
 {B}{G}, {T}, Sacrifice two or more Ooze creatures you control: Put an X/Y black and green Ooze creature token on the battlefield, where X is the sacrificed creatures' combined power and Y is the sacrificed creatures' combined toughness.</text>
 </card>
 <card>
-    <name>Hezornak, Dread Progeny</name>
+    <name>Xenon, Dread Progeny</name>
     <set picURL="">ADV</set>
     <color>WUBRG</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Eldrazi spells you cast cost {1} less to cast.
-{5}, {T}: Exile target land.
-{7}, {T}: All players sacrifice all creatures with converted mana cost 3 or less.</text>
+    <text>You can't cast colored spells.
+You may spend colorless mana as though it were mana of any color to cast colorless spells or activate the abilities of colorless permanents.
+{X}{X}, Sacrifice X creatures: Reveal the top X cards of your library. You may cast a creature card from among them without paying its mana cost. Then exile all other cards revealed this way.</text>
+</card>
+<card>
+    <name>Bathos, Titan-King</name>
+    <set picURL="">ADV</set>
+    <color>RG</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures cannot attack players or planeswalkers they control if that player controls at least one creature.
+Creatures have "{T}: This creature fights target creature. Activate this ability only any time you could cast a sorcery."</text>
 </card>
 <card>
     <name>Bestel, Hand of Protection</name>
@@ -325,7 +339,7 @@ All creature cards gain suspend 2, where the suspend cost is equal to the creatu
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Equip costs you pay are {1} less.
+    <text>Equipment costs you pay cost {1} less.
 Metalcraft - As long as you control three or more artifacts, creatures you control get +1/+0 for each Equipment attached to them.</text>
 </card>
 <card>
@@ -361,7 +375,7 @@ Whenever a source deals damage to you, remove an order counter from Jera, High M
     <text>Whenever you cast a spell, put an elation counter on Makra, Envoy of Elation.
 {T}, Remove X elation counters from Makra, Envoy of Elation: Choose one -
 - Draw X cards then discard that many cards.
-- Deal X damage to target player.
+- Deal X damage to target creature.
 - Gain X life.</text>
 </card>
 <card>
@@ -543,14 +557,15 @@ Whenever a creature an opponent controls dies, search your graveyeard for a Zomb
 At the beginning of your end phase, your life total becomes 10.</text>
 </card>
 <card>
-    <name>Palude, Saint of the Mire</name>
+    <name>Palude, Reaper of the Bog</name>
     <set picURL="">ADV</set>
     <color>B</color>
     <manacost></manacost>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a creature dies, you may tap Palude, Saint of the Mire and pay 2 life. If you do, search your library for a Swamp card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    <text>{X}, Sacrifice a nonland creature with X toughness: Search your library for a Swamp card and put it onto the battlefield tapped with X bog counters on it. Then shuffle your library. Activate this ability only any time you could cast a sorcery.
+Swamps you control with bog counters on them are X/X black Shade creatures that are still lands, where X is the number of bog counters on them.</text>
 </card>
 <card>
     <name>Stensia, Awoken Antediluvian</name>
@@ -603,8 +618,8 @@ Sacrifice an Amalgamate: Add {P} to your mana pool.</text>
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a player casts a spell, any player may pay {1}. If they do, counter that spell unless its controller pays {1}.
-Whenever any of Cecil, Court Cabalist's abilities are activated, any player may pay {1}. If they do, counter that ability.</text>
+    <text>At the beginning of the first upkeep, each player gets 5 Tax emblems with "Sacrifice this emblem: Counter target spell unless its controller pays {1}, 2 life, or sacrifices a Tax emblem."
+At the beginning of each end step, each player gets a Tax emblem for each Tax emblem their opponents sacrificed this turn.</text>
 </card>
 <card>
     <name>Eidolon</name>
@@ -639,6 +654,18 @@ Remove 25 envy counters from Epsilon: Epsilon's color identity becomes {W}{U}{B}
     <tablerow>1</tablerow>
     <text>At the beginning of each player's upkeep, that player casts a random card exiled with Iconoclast without paying its mana cost.
 {P}, {T}: Each player reveals cards from the top of their library until they reveal a nonland card. Then each player exiles that card and puts all cards revealed this way that weren't exiled on the bottom of his or her library.</text>
+</card>
+<card>
+    <name>Imperium, the Unifier</name>
+    <set picURL="">ADV</set>
+    <color>WUBR</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your upkeep, put a claim counter on each player's Adversary.
+{0}: Move a claim counter from an Adversary you control onto target permanent. Any player may activate this ability.
+At the beginning of each end step, each player gains control of each nonland permanent they placed the most counters on.</text>
 </card>
 <card>
     <name>Mahacile, Everlasting Bounty</name>
@@ -879,6 +906,16 @@ Face down creatures without morph have morph X, where X is their converted mana 
     <tablerow>1</tablerow>
     <text>Creatures you control without Devour have Devour 1. (As the creature comes into play, you may sacrifice any number of creatures. It comes into play with that many +1/+1 counters on it.)
 Whenever a creature you control would be devoured, you may move all +1/+1 counters from that creature to the creature that would devour it, then devour it.</text>
+</card>
+<card>
+    <name>Zercalo, Master Reflector</name>
+    <set picURL="">ADV</set>
+    <color>U</color>
+    <manacost></manacost>
+    <cmc></cmc>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}{U}, {T}: Create a token that's a copy of any nontoken creature on the battlefield with converted mana cost X, except it's an Illusion in addition to its other types and it gains "Whenever a creature with the same name as this creature leaves the battlefield, or this creature becomes the target of a spell or ability, sacrifice it."</text>
 </card>
 <card>
     <name>Zhu Long, Jeskai Ascendant</name>
