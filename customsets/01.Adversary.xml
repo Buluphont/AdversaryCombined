@@ -389,16 +389,6 @@ Whenever a source deals damage to you, remove an order counter from Jera, High M
     <text>{T}, Discard a card: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.</text>
 </card>
 <card>
-    <name>Khan, Solemn Immortal</name>
-    <set picURL="">ADV</set>
-    <color>BRG</color>
-    <manacost></manacost>
-    <cmc></cmc>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>Nontoken creatures you control with no abilities get +2/+2.</text>
-</card>
-<card>
     <name>Renais, Unlikely Conquerer</name>
     <set picURL="">ADV</set>
     <color>WRG</color>
