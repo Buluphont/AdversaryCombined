@@ -16,7 +16,7 @@
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{2}{S}: Put an ice counter on target tapped nonsnow, nonland permanent.
+    <text>{S}: Put an ice counter on target tapped nonsnow, nonland permanent.
 Permanents with ice counters on them are snow, don't untap during their controllers' untap steps and have "{1}: Remove an ice counter from this permanent."</text>
 </card>
 <card>
