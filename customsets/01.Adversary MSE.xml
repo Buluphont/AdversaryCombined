@@ -26,7 +26,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{2}{W}{U}{R}: Create a 4/4 legendary multicolored Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
+    <text>{3}{W/U/R}{W/U/R}: Create a 4/4 legendary multicolored Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
 </card>
 <card>
 	<name>Castelia's Charge</name>
@@ -172,7 +172,8 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Blocking creatures you control have +0/+2.
-Creatures you control with defender lose defender.</text>
+Creatures you control with defender lose defender.
+{2}{W/R}: Target creature you control gains vigilance until end of turn.</text>
 </card>
 <card>
     <name>Advorian, Warmonger</name>
@@ -288,7 +289,7 @@ No more than two creatures may attack each combat.</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Raid — If you attacked with a creature this turn, the first creature you cast on your second main phase cost {1} less.
-{3}{W/B/R}, {T}: Target creature you control gains first strike until end of turn.</text>
+{2}{W/R}, {T}: Target creature you control gains first strike until end of turn.</text>
 </card>
 <card>
     <name>Ji-Min, Sunblessed of Raju</name>
@@ -476,7 +477,7 @@ Associate</text>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>At the beginning of the first upkeep, create a colorless artifact Equipment token named Sunder. It has Equip 3 and “Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature.”"</text>
+    <text>At the beginning of the first upkeep, create a colorless artifact Equipment token named Sunder. It has Equip 3 and “Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature."</text>
 </card>
 <card>
     <name>Sunder </name>
@@ -487,6 +488,18 @@ Associate</text>
     <text>Equip {3}
 Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature.</text>
 	<token>1</token>
+</card>
+<card>
+    <name>Iori, She who Guides the Kami</name>
+    <set num="47" picURL="">MSE-ADV</set>
+	<related>Sunder </related>
+	<cmc>3</cmc>
+    <color>WU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Instants and sorceries you cast are Arcane in addition to their other types.
+Whenever you Splice onto a spell, you may draw a card and then discard a card.
+{W/U}, {T}: You may cast a target Spirit creature card from your graveyard until end of turn.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
