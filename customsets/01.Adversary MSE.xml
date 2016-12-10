@@ -492,7 +492,6 @@ Whenever equipped creature deals combat damage to a player, it deals that much d
 <card>
     <name>Iori, She who Guides the Kami</name>
     <set num="47" picURL="">MSE-ADV</set>
-	<related>Sunder </related>
 	<cmc>3</cmc>
     <color>WU</color>
     <type>Adversary</type>
@@ -500,6 +499,16 @@ Whenever equipped creature deals combat damage to a player, it deals that much d
     <text>Instants and sorceries you cast are Arcane in addition to their other types.
 Whenever you Splice onto a spell, you may draw a card and then discard a card.
 {W/U}, {T}: You may cast a target Spirit creature card from your graveyard until end of turn.</text>
+</card>
+<card>
+    <name>Palude, Saint of the Mire</name>
+    <set num="48" picURL="">MSE-ADV</set>
+	<cmc>3</cmc>
+    <color>B</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature dies, you may tap Palude, Saint of the Mire and lose 2 life. If you do, search you library for a Swamp, put it onto the battlefield tapped, shuffle your library, and then you gain an experience counter.
+{4}{B}, {T}: Create X 2/2 black Zombie tokens, where X is half the number of experience counters you have, rounded up.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
