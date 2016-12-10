@@ -293,8 +293,8 @@ At the beginning of your upkeep, if you have 5 or less life, draw a card, create
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>At the beginning of your upkeep, put a 1/1 green and black Ooze creature token on the battlefield.
-{B}{G}, {T}, Sacrifice two or more Ooze creatures you control: Put an X/Y black and green Ooze creature token on the battlefield, where X is the sacrificed creatures' combined power and Y is the sacrificed creatures' combined toughness.</text>
+    <text>At the beginning of your upkeep, you may pay {1}. If you do, create a 0/1 green and black Ooze creature token.
+{T}, Sacrifice two or more Ooze creatures you control: Create an X/X black and green Ooze creature token, where X is the sacrificed creatures' combined toughness.</text>
 </card>
 <card>
     <name>Xenon, Dread Progeny</name>
