@@ -370,11 +370,11 @@ Whenever a source deals damage to you, remove an order counter from Jera, High M
     <cmc></cmc>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever you cast a spell, put an elation counter on Makra, Envoy of Elation.
+    <text>Whenever you cast a noncreature spell, put an elation counter on Makra, Envoy of Elation.
 {T}, Remove X elation counters from Makra, Envoy of Elation: Choose one -
+- Gain X life.
 - Draw X cards then discard that many cards.
-- Deal X damage to target creature.
-- Gain X life.</text>
+- Deal X damage to target creature.</text>
 </card>
 <card>
     <name>Virgel, Fablechild</name>
@@ -776,7 +776,7 @@ Remove a surge counter from target artifact you control: Add {R} to your mana po
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>If each player has 15 more life than their starting total, you win the game.
-{G/W}: Target player gains 1 life.</text>
+{G/W}{G/W}: Each player gains 1 life.</text>
 </card>
 <card>
     <name>Belial, Underworld Ravager</name>
