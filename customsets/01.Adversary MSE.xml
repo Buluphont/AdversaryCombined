@@ -9,7 +9,7 @@
 </sets>
   <cards>
 <card>
-    <name>Serena, Last of Goldnight</name>
+	<name>Serena, Last of Goldnight</name>
     <set num="1" picURL="">MSE-ADV</set>
 	<cmc>2</cmc>
     <color>WR</color>
@@ -17,6 +17,8 @@
     <tablerow>1</tablerow>
     <text>Each card you own that is not on the battlefield has madness. The madness cost is equal to the card's mana cost.
 When a creature leaves the battlefield, you may discard a card.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Castelia, the Resolute</name>
@@ -26,7 +28,9 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{3}{W/U/R}{W/U/R}: Create a 4/4 red, white, and blue multicolored Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
+    <text>{3}{W/U/R}{W/U/R}: Create a 4/4 red, white, and blue Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
 	<name>Castelia's Charge</name>
@@ -47,6 +51,8 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <tablerow>1</tablerow>
     <text>Creatures you control have skulk.
 {1}{W/B}, {T}: Target creature is a Spirit in addition to its other creature types until end of turn.</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Abigail, Exiled Inventor</name>
@@ -57,6 +63,8 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <tablerow>1</tablerow>
     <text>Token artifact creatures you control have Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
 {U}{R}, Sacrifice an artifact creature you control: Abigail, Exiled Inventor deals damage to target creature equal to the sacrificed creatures power.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Thordaw, Werewolf Alpha</name>
@@ -67,6 +75,8 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <tablerow>1</tablerow>
     <text>{3}, {T}: Transform target creature.
 Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf Alpha.</text>
+	<life>21</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Haniel, Unrelenting Rider</name>
@@ -76,6 +86,8 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Nontoken creatures you control have extort.</text>
+	<life>16</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Gurbal, Grand Culinary Master</name>
@@ -86,6 +98,8 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
     <tablerow>1</tablerow>
     <text>{2}{G}{G}, Sacrifice a Plant: You gain life equal to the sacrificed Plant's converted mana cost, then draw a card.
 {1}{R}{R}, Sacrifice a Beast: Gurbal, Grand Culinary Master deals 3 damage to target creature or player.</text>
+	<life>15</life>
+	<handsize>8</handsize>
 </card>
 <card>
     <name>Shideh-Merle, Aurashaper</name>
@@ -95,6 +109,8 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Auras you control have "{G/W/U}, Pay 2 life: Attach this Aura to target permanent or player it can enchant."</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Accenu, Ancestral Animist</name>
@@ -106,6 +122,8 @@ Whenever a Werewolf you control enters the battlefield, untap Thordaw, Werewolf 
     <tablerow>1</tablerow>
     <text>Whenever an Equipment you control would become attached to a creature, you may create a 0/1 white Spirit creature token and attach that Equipment to it instead.
 Whenever a Spirit creature you control would be destroyed, if it is equipped, you may sacrifice an Equipment attached to it instead.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
 	<name>Spirit       </name>
@@ -125,6 +143,8 @@ Whenever a Spirit creature you control would be destroyed, if it is equipped, yo
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{G}{G}, Sacrifice a Plant you control: Add an amount of {G} to your mana pool equal to the toughness of the sacrificed creature.</text>
+	<life>18</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Xoldevak, Rotting Incarnate</name>
@@ -135,6 +155,8 @@ Whenever a Spirit creature you control would be destroyed, if it is equipped, yo
     <tablerow>1</tablerow>
     <text>If you would put a -1/-1 counter on a creature, you may pay {1}. If you do, put a +1/+1 counter on that creature instead.
 If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, put a -1/-1 counter on that creature instead.</text>
+	<life>15</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Kalaron, Guild Leader</name>
@@ -145,6 +167,8 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <tablerow>1</tablerow>
     <text>{R}, {T}: Target creature must attack this turn if able.
 {W}, {T}: Target creature can't attack this turn.</text>
+	<life>22</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Miria, the Living Woods</name>
@@ -154,6 +178,8 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{R}{G}, {T}: Put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It is still a land.</text>
+	<life>16</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Castelia, Shield of Avemarc</name>
@@ -163,6 +189,8 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{R}{G}{W}, {T}: Create a copy of target token creature you control. You gain X life, where X is equal to the number of tokens you control that share a creature type with it.</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Menorath, Stronghold Veteran</name>
@@ -174,6 +202,8 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <text>Blocking creatures you control have +0/+2.
 Creatures you control with defender lose defender.
 {2}{W/R}: Target creature you control gains vigilance until end of turn.</text>
+	<life>22</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Advorian, Warmonger</name>
@@ -184,6 +214,8 @@ Creatures you control with defender lose defender.
     <tablerow>1</tablerow>
     <text>Creatures you control have haste.
 If a creature a player controls attacks, all creatures that player controls attack if able.</text>
+	<life>19</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Dominaria Awoken</name>
@@ -194,6 +226,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <tablerow>1</tablerow>
     <text>Whenever a noncreature source you control deals damage, you gain that much life.
 {1}{R}, {T}: Dominaria Awoken deals 1 damage to target creature.</text>
+	<life>14</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Wenela, Ecotitan</name>
@@ -205,6 +239,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <tablerow>1</tablerow>
     <text>Creatures you control without evolve gain evolve.
 {G}{U}: Create a 1/1 green and blue Horror creature token.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
 	<name>Horror    </name>
@@ -223,6 +259,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>At the beginning of your first upkeep each turn, you get an additional upkeep step after this step.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Memere, Turner of Essence</name>
@@ -233,6 +271,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <tablerow>1</tablerow>
     <text>Whenever you return a creature to its owners hand, instants and sorceries cost {1} less until end of turn.
 {1}{U}{R}, {T}: Return target creature to its owners hand.</text>
+	<life>20</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Guardian of Llanowar</name>
@@ -242,6 +282,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Landfall — If a land entered the battlefield under your control this turn, creatures you control get +1/+0 and trample.</text>
+	<life>22</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Kamirth, Dragon of Leylines</name>
@@ -251,6 +293,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Creatures you control have Amplify 1.</text>
+	<life>13</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Borgue, Artificer Savant</name>
@@ -260,6 +304,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{1}{U}{U}{R}, Sacrifice an artifact creature, {T}: Search your library for a noncreature artifact, put it onto the battlefield, then shuffle your library.</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Shirdar, Dread Doctor</name>
@@ -270,6 +316,8 @@ If a creature a player controls attacks, all creatures that player controls atta
     <tablerow>1</tablerow>
     <text>Whenever you cast a spell from your graveyard, put a hex counter on Shirdar, Dread Doctor.
 At the beginning of your upkeep, if Shirdar has six or more hex counters on it, return target creature from your graveyard to the battlefield.</text>
+	<life>17</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Bao Xue, Merchant of Secrets</name>
@@ -280,6 +328,8 @@ At the beginning of your upkeep, if Shirdar has six or more hex counters on it, 
     <tablerow>1</tablerow>
     <text>Whenever a creature deals combat damage to an opponent, its controller draws that many cards.
 No more than two creatures may attack each combat.</text>
+	<life>20</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Ali and Rosa, the Flames of Passion</name>
@@ -290,6 +340,8 @@ No more than two creatures may attack each combat.</text>
     <tablerow>1</tablerow>
     <text>Raid — If you attacked with a creature this turn, the first creature you cast on your second main phase cost {1} less.
 {2}{W/R}, {T}: Target creature you control gains first strike until end of turn.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Ji-Min, Sunblessed of Raju</name>
@@ -300,6 +352,8 @@ No more than two creatures may attack each combat.</text>
     <tablerow>1</tablerow>
     <text>Whenever a creature you control attacks alone, you may put and exaltation counter on target nonland permanent.
 Permanents you control with exaltation counters have exalted.</text>
+	<life>17</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Luru, Priestess of Sanguinus</name>
@@ -310,6 +364,8 @@ Permanents you control with exaltation counters have exalted.</text>
     <tablerow>1</tablerow>
     <text>Demons you control cannot be countered or returned to its owner's hand.
 Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of any color of mana to your mana pool. This mana can only be used to cast Demon spells."</text>
+	<life>17</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Padma, Overseer of the Foundry</name>
@@ -320,6 +376,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <tablerow>1</tablerow>
     <text>Creatures you control are artifacts in addition to their other types.
 {X}{X}{W}{U}{B}, {T}: Gain control of target creature or artifact with a converted mana cost of X.</text>
+	<life>14</life>
+	<handsize>8</handsize>
 </card>
 <card>
     <name>Vida, the Necrotic Flame</name>
@@ -328,7 +386,9 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a notoken creature you control dies, you may pay {4}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
+    <text>Whenever a nontoken creature you control dies, you may pay {4}. If you do, create a token that is a copy of it. It is a Zombie in addition to its other types.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Serena, Goldnight Angel</name>
@@ -339,6 +399,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <tablerow>1</tablerow>
     <text>Whenever you cast an enchantment spell, you gain 3 life.
 {1}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
+	<life>14</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Malum, the Usurper Queen</name>
@@ -349,6 +411,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <tablerow>1</tablerow>
     <text>Whenever a creature attacks the monarch that isn't you, put a +1/+1 counter on it.
 {3}{R/G/W}, {T}: Target player becomes the monarch. Only play this ability is you are the monarch.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Narameya, the Flow of Elements</name>
@@ -358,6 +422,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever you cast a creature for its evoke cost, if you would sacrifice it when it comes into play you may instead sacrifice it at end of turn. It gains haste.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Alycia, Archmage of Goldnight</name>
@@ -368,6 +434,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <tablerow>1</tablerow>
     <text>Whenever a creature would deal damage, it deals that much damage plus 1 instead.
 {R/W}, {T}: Target Human gains first strike until end of turn.</text>
+	<life>18</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Johanna, Archmage of Moonsilver</name>
@@ -378,6 +446,8 @@ Humans you control have "Put a -1/-1 counter on this creature, {T}: Add one of a
     <tablerow>1</tablerow>
     <text>{T}: Put the top four cards of your library into your graveyard, then you may discard a card. If you do, return a Human or Angel card from your graveyard to your hand.
 Delirium — {1}{W}{W}, Exile four cards with different types from your graveyard: Destroy all creatures. Activate this ability only if there are four or more card types among cards in your graveyard and only when you could cast a sorcery.</text>
+	<life>21</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Laurela, Archmage of Alabaster</name>
@@ -389,6 +459,8 @@ Delirium — {1}{W}{W}, Exile four cards with different types from your graveyar
     <tablerow>1</tablerow>
     <text>You may cast Aura spells from your graveyard.
 {T}: Exile any number of creature cards from your graveyard. Put X 1/1 white Spirit creature tokens with flying onto the battlefield, where X is equal to the numbr of creatures exiled by this effect.</text>
+	<life>24</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Laurycia, Archmage of Nightmares</name>
@@ -399,6 +471,8 @@ Delirium — {1}{W}{W}, Exile four cards with different types from your graveyar
     <tablerow>1</tablerow>
     <text>Costs of Eldrazi spells and permaments can be paid using mana of any color.
 Whenever you cast a non-Eldrazi creature, you may pay {2}. If you do, scry 1 then look at the top card of your library. If it is an Eldrazi spell, you may reveal it and put it into your hand.</text>
+	<life>20</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Viktoria, Archmage of Herons</name>
@@ -409,6 +483,8 @@ Whenever you cast a non-Eldrazi creature, you may pay {2}. If you do, scry 1 the
     <tablerow>1</tablerow>
     <text>{T}: Humans you control gain "{W}: This creature gains indestructible until end of turn" until end of turn.
 As long as you control a Human and Viktoria, Archmage of Herons is untapped, you have hexproof.</text>
+	<life>21</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Palsoria, the Unforgiving</name>
@@ -418,6 +494,8 @@ As long as you control a Human and Viktoria, Archmage of Herons is untapped, you
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever one or more sources deal damage to you or a creature you control, Palsoria, the Unforgiving deals 1 damage to that source's controller.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Erimmont, Woodsin Stalker</name>
@@ -428,6 +506,8 @@ As long as you control a Human and Viktoria, Archmage of Herons is untapped, you
     <tablerow>1</tablerow>
     <text>Creatures you control have evolve.
 At the beginning of each end step, sacrifice all creatures you control with power 6 or greater, then create two 3/3 green Beast creature tokens for each creature sacrificed this way.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Ali, Freethinker</name>
@@ -438,6 +518,8 @@ At the beginning of each end step, sacrifice all creatures you control with powe
     <tablerow>1</tablerow>
     <text>Whenever a creature you control dies, you gain X life, where X is equal to the number of colors that creature was.
 Associate</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Rosa, Oathsworn</name>
@@ -448,16 +530,30 @@ Associate</text>
     <tablerow>1</tablerow>
     <text>Whenever a player draws a card, that player may reveal that card. If they do not, Rosa, Oathsworn deals 1 damage to that player.
 Associate</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Vyk, Thunder-Thrash Elder</name>
     <set num="44" picURL="">MSE-ADV</set>
+	<related>Viashino</related>
 	<cmc>3</cmc>
     <color>BRG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever a creature an opponent controls dies, you may pay {R}. If you do, create a 1/1 red Viashino creature token.
 {2}{B}{G}: Viashino creatures you control get +1/+1 and gain deathtouch until end of turn.</text>
+	<life>16</life>
+	<handsize>7</handsize>
+</card>
+<card>
+	<name>Viashino</name>
+	<set rarity="" muId="1" picURL="">MSE-ADV</set>
+	<color>R</color>
+	<type>Token Creature — Viashino</type>
+	<pt>1/1</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
 </card>
 <card>
     <name>Bius, the World Anchor</name>
@@ -468,6 +564,8 @@ Associate</text>
     <tablerow>1</tablerow>
     <text>Whenever a creature would enter the battlefield with no +1/+1 counters on it, put a +1/+1 counter on it instead.
 {1}, Remove any number of +1/+1 counters from creatures you control, {T}: Bius, the World Anchor deals damage equal to the number of +1/+1 counters removed to target creature or player.</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Kaz, the Sunderer</name>
@@ -478,6 +576,8 @@ Associate</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>At the beginning of the first upkeep, create a colorless artifact Equipment token named Sunder. It has Equip 3 and “Whenever equipped creature deals combat damage to a player, it deals that much damage to target creature."</text>
+	<life>20</life>
+	<handsize>7</handsize>
 </card>
 <card>
     <name>Sunder </name>
@@ -499,6 +599,8 @@ Whenever equipped creature deals combat damage to a player, it deals that much d
     <text>Instants and sorceries you cast are Arcane in addition to their other types.
 Whenever you Splice onto a spell, you may draw a card and then discard a card.
 {W/U}, {T}: You may cast a target Spirit creature card from your graveyard until end of turn.</text>
+	<life>18</life>
+	<handsize>6</handsize>
 </card>
 <card>
     <name>Palude, Saint of the Mire</name>
@@ -509,6 +611,8 @@ Whenever you Splice onto a spell, you may draw a card and then discard a card.
     <tablerow>1</tablerow>
     <text>Whenever a creature dies, you may tap Palude, Saint of the Mire and lose 2 life. If you do, search you library for a Swamp, put it onto the battlefield tapped, shuffle your library, and then you gain an experience counter.
 {4}{B}, {T}: Create X 2/2 black Zombie tokens, where X is half the number of experience counters you have, rounded up.</text>
+	<life>22</life>
+	<handsize>6</handsize>
 </card>
 </cards>
 </cockatrice_carddatabase>
