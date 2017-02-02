@@ -28,8 +28,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{3}{W/U/R}{W/U/R}: Create a 4/4 red, white, and blue Human Knight creature token with haste named “Castelia's Charge”. Sacrifice it at end of turn.</text>
-	<life>18</life>
+	<life>20</life>
 	<handsize>7</handsize>
 </card>
 <card>
@@ -166,7 +165,7 @@ If you would put a +1/+1 counter on a creature, you maybe pay {1}. If you do, pu
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{R}{G}, {T}: Put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It is still a land.</text>
-	<life>16</life>
+	<life>20</life>
 	<handsize>7</handsize>
 </card>
 <card>
@@ -248,17 +247,6 @@ Creatures you control with defender lose defender.
     <text>Whenever you return a creature to its owners hand, instants and sorceries cost {1} less until end of turn.
 {1}{U}{R}, {T}: Return target creature to its owners hand.</text>
 	<life>20</life>
-	<handsize>7</handsize>
-</card>
-<card>
-    <name>Guardian of Llanowar</name>
-    <set num="22" picURL="">MSE-ADV</set>
-	<cmc>3</cmc>
-    <color>G</color>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>Landfall — If a land entered the battlefield under your control this turn, creatures you control get +1/+0 and trample.</text>
-	<life>22</life>
 	<handsize>7</handsize>
 </card>
 <card>
@@ -501,6 +489,7 @@ Whenever you Splice onto a spell, you may draw a card and then discard a card.
 <card>
     <name>Palude, Saint of the Mire</name>
     <set num="48" picURL="">MSE-ADV</set>
+	<related>Zombie</related>
 	<cmc>3</cmc>
     <color>B</color>
     <type>Adversary</type>

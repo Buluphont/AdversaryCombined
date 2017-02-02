@@ -23,9 +23,3 @@ pics/downloadedPics/*
 !pics/downloadedPics/MDV/
 !pics/downloadedPics/MSE-ADV/
 !pics/downloadedPics/MSE-ADV2/
-
-# Exclude league sets
-customsets/Hawk.xml
-customsets/GardEvelyn.xml
-customsets/Spike.xml
-customsets/TK.xml
