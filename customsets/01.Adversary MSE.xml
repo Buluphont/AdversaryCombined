@@ -28,6 +28,7 @@ When a creature leaves the battlefield, you may discard a card.</text>
     <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
+    <text>{2}{R}{W}{U}: Create a 4/4 red, white, and blue Human Knight creature token with haste named Castelia's Charge. Sacrifice it at end of turn.</text>
 	<life>20</life>
 	<handsize>7</handsize>
 </card>
