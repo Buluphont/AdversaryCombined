@@ -1,0 +1,122 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+	<name>0LV</name>
+	<longname>0-level Adversaries</longname>
+    <settype>Testing</settype>
+    <releasedate>2017-05-16</releasedate>
+</set>
+</sets>
+  <cards>
+<card>
+    <name>Miria, the Living Woods</name>
+    <set num="13" picURL="">MSE-ADV</set>
+    <set num="1" picURL="">0LV</set>
+    <color>RG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{R}{G}, {T}: Put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It is still a land.</text>
+	<life>20</life>
+	<handsize>7</handsize>
+</card>
+<card>
+    <name>Ali and Rosa, the Flames of Passion</name>
+    <set num="27" picURL="">MSE-ADV</set>
+    <set num="2" picURL="">0LV</set>
+    <color>WBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Raid — If you attacked with a creature this turn, the first creature you cast on your second main phase cost {1} less.
+{2}{W/R}, {T}: Target creature you control gains first strike until end of turn.</text>
+	<life>20</life>
+	<handsize>7</handsize>
+</card>
+<card>
+    <name>Serena, Goldnight Angel</name>
+    <set num="32" picURL="">MSE-ADV</set>
+    <set num="3" picURL="">0LV</set>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you cast an enchantment spell, you gain 3 life.
+{1}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
+	<life>14</life>
+	<handsize>7</handsize>
+</card>
+<card>
+    <name>Alycia, Archmage of Goldnight</name>
+    <set num="35" picURL="">MSE-ADV</set>
+    <set num="4" picURL="">0LV</set>
+    <color>RW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature would deal damage, it deals that much damage plus 1 instead.
+{R/W}, {T}: Target Human gains first strike until end of turn.</text>
+	<life>18</life>
+	<handsize>7</handsize>
+</card>
+<card>
+    <name>Vyk, Thunder-Thrash Elder</name>
+    <set num="44" picURL="">MSE-ADV</set>
+    <set num="5" picURL="">0LV</set>
+	<related>Viashino</related>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature an opponent controls dies, you may pay {R}. If you do, create a 1/1 red Viashino creature token.
+{2}{B}{G}: Viashino creatures you control get +1/+1 and gain deathtouch until end of turn.</text>
+	<life>16</life>
+	<handsize>7</handsize>
+</card>
+<card>
+	<name>Viashino</name>
+	<set rarity="" muId="1" picURL="">MSE-ADV</set>
+    <set rarity="" muId="1" picURL="">0LV</set>
+	<color>R</color>
+	<type>Token Creature — Viashino</type>
+	<pt>1/1</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
+</card>
+<card>
+    <name>Ildren, Hemlock Packmaster</name>
+    <set num="6" picURL="">0LV</set>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature an opponent controls dies, you may pay {R}. If you do, create a 1/1 red Viashino creature token.
+{2}{B}{G}: Viashino creatures you control get +1/+1 and gain deathtouch until end of turn.</text>
+	<life>16</life>
+	<handsize>7</handsize>
+</card>
+<card>
+    <name>Teren, of Benalia</name>
+    <set picURL="">ADV</set>
+    <set num="7" picURL="">0LV</set>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever one or more creatures attack you, you may pay {X}{X}. If you do, create X 1/1 white Soldier creature tokens. 
+Soldier creatures you control have vigilance.</text>
+</card>
+<card>
+    <name>Zarkuul, Font of Predation</name>
+    <set picURL="">ADV</set>
+    <set num="8" picURL="">0LV</set>
+    <color>BRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Creatures you control without Devour have Devour 1. (As the creature comes into play, you may sacrifice any number of creatures. It comes into play with that many +1/+1 counters on it.)
+Whenever a creature you control would be devoured, you may move all +1/+1 counters from that creature to the creature that would devour it, then devour it</text>
+</card>
+<card>
+    <name>Zhu Long, Jeskai Ascendant</name>
+    <set picURL="">ADV</set>
+    <set num="9" picURL="">0LV</set>
+    <color>URW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}, {T}: The next instant or sorcery spell you cast from your hand this turn gains rebound. (Exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
+</card>
+</cards>
+</cockatrice_carddatabase>
