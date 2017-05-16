@@ -118,5 +118,66 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <tablerow>1</tablerow>
     <text>{3}, {T}: The next instant or sorcery spell you cast from your hand this turn gains rebound. (Exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
 </card>
+<card>
+    <name>Blightpeddler Koss</name>
+    <set num="10" picURL="">0LV</set>
+    <color>BR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{2}, Sacrifice a creature: Target player loses 2 life. Any player may activate this ability.</text>
+</card>
+<card>
+    <name>Dolorae, Sisters of Sorrow</name>
+    <set num="11" picURL="">0LV</set>
+    <color>UB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever an opponent loses life, that player exiles that many cards from the top of his or her library.</text>
+</card>
+<card>
+    <name>Dreadlord of Jhess</name>
+    <set num="11" picURL="">0LV</set>
+    <color>WB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature you control dies, you may pay {1}. If you do, return it to its owner's hand unless any player pays 3 life.</text>
+</card>
+<card>
+    <name>Jagoda, Outland Druid</name>
+    <set num="12" picURL="">0LV</set>
+    <color>G</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may pay {G}{G}. If you do, you may have target creature you control get +2/+2 or gain hexproof until end of turn.</text>
+</card>
+<card>
+    <name>Logos, Empyreal Arbiter</name>
+    <set num="13" picURL="">0LV</set>
+    <color>WU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{T}: Return target card from an opponent's graveyard to his or her hand. Choose one — 
+• Target creature can't attack or block this turn.
+• Target creature gets +1/+1 and gains flying until end of turn.
+• You gain 3 life.</text>
+</card>
+<card>
+    <name>Marat, Vis Collector</name>
+    <set num="14" picURL="">0LV</set>
+    <color>UBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{U}{B}, {T}: Tap target creature you don't control. It gets -1/-1 until end of turn and does not untap during its controller's next untap step.
+At the beginning of each opponent's upkeep, if they control one or more tapped creatures, put a blood counter on Marat, Vis Collector.
+remove a blood counter from Marat: Target creature you control gets +1/+1 and gains haste until end of turn.</text>
+</card>
+<card>
+    <name>Tunor, Windcaller</name>
+    <set num="15" picURL="">0LV</set>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}{R}, {T}, Exile a spell you control: Tunor, Windcaller deals 2 damage to target creature or player.</text>
+</card>
 </cards>
 </cockatrice_carddatabase>
