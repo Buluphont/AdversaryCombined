@@ -81,7 +81,7 @@
 <card>
     <name>Ildren, Hemlock Packmaster</name>
     <set num="6" picURL="">0LV</set>
-    <color>BRG</color>
+    <color>BG</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever a creature an opponent controls dies, you may pay {R}. If you do, create a 1/1 red Viashino creature token.
@@ -178,6 +178,123 @@ remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{1}{R}, {T}, Exile a spell you control: Tunor, Windcaller deals 2 damage to target creature or player.</text>
+</card>
+<card>
+    <name>Aterprin the Shelterer</name>
+    <set num="16" picURL="">0LV</set>
+    <color>GU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature enters the battlefield, if it didn't enter from the graveyard, put a +1/+1 counter on target creature you control and a +1/+1 counter on a creature an opponent controls.</text>
+</card>
+<card>
+    <name>Bracwen, the Beguiler</name>
+    <set num="17" picURL="">0LV</set>
+    <color>U</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>You may choose not to untap Bracwen, the Beguiler during your untap step.
+{T}: Put a verse counter on Bracwen.
+{2}{U}, {T}: Gain control of target creature with converted mana cost of X or less for as long as Bracwen remains tapped, where X is the number of verse counters on him.</text>
+</card>
+<card>
+    <name>Disya, Miracle Worker</name>
+    <set num="18" picURL="">0LV</set>
+    <color>GW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}{G}{W}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library. Sacrifice that permanent at end of turn.</text>
+</card>
+<card>
+    <name>Eschaton</name>
+    <set num="19" picURL="">0LV</set>
+	<related>Devil </related>
+    <color>R</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your first upkeep, create a 3/2 red Devil creature token.
+At the beginning of your end step, Eschaton deals 1 damage to you.</text>
+</card>
+<card>
+	<name>Devil </name>
+    <set rarity="" muId="1" picURL="">0LV</set>
+	<color>R</color>
+	<type>Token Creature — Devil</type>
+	<pt>3/2</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
+</card>
+<card>
+    <name>Evalia, Heir of Avemarc</name>
+    <set num="20" picURL="">0LV</set>
+	<related>Warrior    </related>
+    <color>RGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you attack with three or more creatures, create a 4/4 green Warrior creature token tapped and attacking. Exile it at end of combat.</text>
+</card>
+<card>
+	<name>Warrior    </name>
+    <set rarity="" muId="1" picURL="">0LV</set>
+	<color>G</color>
+	<type>Token Creature — Warrior</type>
+	<pt>4/4</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
+</card>
+<card>
+    <name>Ozge, Stewmaster</name>
+    <set num="21" picURL="">0LV</set>
+    <color>URG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}, {T}: Exile the top card of your library. You may cast that card this turn. If it has converted mana cost 2, you may cast it without paying its mana cost.</text>
+</card>
+<card>
+    <name>Tunor, Windcaller</name>
+    <set num="22" picURL="">0LV</set>
+    <color>B</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{X}, {T}: Put the top X cards of your library into your graveyard. Target player loses 1 life for each card type among cards put into your graveyard this way.</text>
+</card>
+<card>
+    <name>Thyrus, Lineaologist</name>
+    <set num="23" picURL="">0LV</set>
+    <color>GWU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>At the beginning of your end step, you may pay {1}. if you do, choose a permanent you control and reveal the top card of your library. If that card shares a card type with the chosen permanent, put it into your hand.</text>
+</card>
+<card>
+    <name>Tsimisha, Ancient Guardian</name>
+    <set num="24" picURL="">0LV</set>
+	<related>Saproling</related>
+    <color>BGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{B}{G}{W}, {T}: Choose one — 
+• Put a +1/+1 counter on target creature.
+• Create a 1/1 green Saproling creature token.</text>
+</card>
+<card>
+    <name>Yilan, Nest Keeper</name>
+    <set num="25" picURL="">0LV</set>
+	<related>Snake      </related>
+    <color>BGW</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}, Sacrifice a nontoken creature: Create a 1/1 black Snake creature token.
+At the beginning of your upkeep, if there are seven or more creature cards in your graveyard, draw a card.</text>
+</card>
+<card>
+	<name>Snake      </name>
+    <set rarity="" muId="1" picURL="">0LV</set>
+	<color>B</color>
+	<type>Token Creature — Snake</type>
+	<pt>1/1</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
 </card>
 </cards>
 </cockatrice_carddatabase>
