@@ -124,7 +124,8 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <color>BR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{2}, Sacrifice a creature: Target player loses 2 life. Any player may activate this ability.</text>
+    <text>{1}: Damage dealt by a source of your choice can't be prevented this turn.
+{2}, Sacrifice a creature: Blightpeddler Koss deals 2 damage to target player.</text>
 </card>
 <card>
     <name>Dolorae, Sisters of Sorrow</name>
@@ -281,7 +282,7 @@ At the beginning of your end step, Eschaton deals 1 damage to you.</text>
     <name>Yilan, Nest Keeper</name>
     <set num="25" picURL="">0LV</set>
 	<related>Snake      </related>
-    <color>BGW</color>
+    <color>GUB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{1}, Sacrifice a nontoken creature: Create a 1/1 black Snake creature token.
