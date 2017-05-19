@@ -252,7 +252,7 @@ At the beginning of your end step, Eschaton deals 1 damage to you.</text>
     <text>{3}, {T}: Exile the top card of your library. You may cast that card this turn. If it has converted mana cost 2, you may cast it without paying its mana cost.</text>
 </card>
 <card>
-    <name>Tunor, Windcaller</name>
+    <name>Skane, Dark Counselor</name>
     <set num="22" picURL="">0LV</set>
     <color>B</color>
     <type>Adversary</type>
