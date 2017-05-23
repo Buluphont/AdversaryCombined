@@ -39,7 +39,7 @@
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever you cast an enchantment spell, you gain 3 life.
-{1}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
+{2}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
 	<life>14</life>
 	<handsize>7</handsize>
 </card>
@@ -168,9 +168,9 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <color>UBR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{U}{B}, {T}: Tap target creature you don't control. It gets -1/-1 until end of turn and does not untap during its controller's next untap step.
+    <text>{U}{B}{R}, {T}: Tap target creature you don't control. It gets -1/-1 until end of turn and does not untap during its controller's next untap step.
 At the beginning of each opponent's upkeep, if they control one or more tapped creatures, put a blood counter on Marat, Vis Collector.
-remove a blood counter from Marat: Target creature you control gets +1/+1 and gains haste until end of turn.</text>
+Remove a blood counter from Marat: Target creature you control gets +1/+1 and gains haste until end of turn.</text>
 </card>
 <card>
     <name>Tunor, Windcaller</name>
@@ -296,6 +296,23 @@ At the beginning of your upkeep, if there are seven or more creature cards in yo
 	<pt>1/1</pt>
 	<tablerow>2</tablerow>
 	<token>1</token>
+</card>
+<card>
+    <name>Mnemon the Savant</name>
+    <set num="26" picURL="">0LV</set>
+    <color>WUB</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you draw a card except the first card you draw during your draw step, you gain 1 life.
+{2}{U}{B}, {T}, Pay 3 life: Target player discards a card at random. If it's a land card, draw a card. Activiate this ability only on your turn.</text>
+</card>
+<card>
+    <name>Sunyata</name>
+    <set num="27" picURL="">0LV</set>
+    <color>WUBRG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text></text>
 </card>
 </cards>
 </cockatrice_carddatabase>
