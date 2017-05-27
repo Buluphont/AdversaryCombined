@@ -38,7 +38,7 @@
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever you cast an enchantment spell, you gain 3 life.
+    <text>Whenever you cast an enchantment spell, you gain 2 life.
 {2}{W}{W}, {T}: Return target enchantment card from your graveyard to your hand.</text>
 	<life>14</life>
 	<handsize>7</handsize>
@@ -133,7 +133,7 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <color>UB</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever an opponent loses life, that player exiles that many cards from the top of his or her library.</text>
+    <text>Whenever a creature dies, you may draw a card. If you do, discard a card.</text>
 </card>
 <card>
     <name>Dreadlord of Jhess</name>
