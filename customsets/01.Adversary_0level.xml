@@ -186,7 +186,7 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <color>GU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a creature enters the battlefield under your control, if it didn't enter from the graveyard, each player puts a +1/+1 counter on target creature he or she controls.</text>
+    <text>Whenever a creature enters the battlefield, if it didn't enter from the graveyard, put a +1/+1 counter on target creature you control and a +1/+1 counter on a creature an opponent controls.</text>
 </card>
 <card>
     <name>Bracwen, the Beguiler</name>
