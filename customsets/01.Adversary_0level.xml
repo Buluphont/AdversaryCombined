@@ -252,12 +252,13 @@ At the beginning of your end step, Eschaton deals 1 damage to you.</text>
     <text>{3}, {T}: Exile the top card of your library. You may cast that card this turn. If it has converted mana cost 2, you may cast it without paying its mana cost.</text>
 </card>
 <card>
-    <name>Skane, Dark Counselor</name>
+    <name>The Bereft</name>
     <set num="22" picURL="">0LV</set>
     <color>B</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{X}, {T}: Put the top X cards of your library into your graveyard. Target player loses 1 life for each card type among cards put into your graveyard this way.</text>
+    <text>Whenever a card would be put into your graveyard from anywhere, exile it instead.
+{2}{B}, Pay X life: Return target nonland card exiled by The Bereft with converted mana cost X or less to your hand.</text>
 </card>
 <card>
     <name>Thyrus, Lineaologist</name>
