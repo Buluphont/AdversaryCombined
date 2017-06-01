@@ -144,12 +144,14 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <text>Whenever a creature you control dies, you may pay {1}. If you do, return it to its owner's hand unless any player pays 3 life.</text>
 </card>
 <card>
-    <name>Jagoda, Outland Druid</name>
+    <name>Varasa of the Hunt</name>
     <set num="12" picURL="">0LV</set>
+	<related>Wurm</related>
     <color>G</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Landfall — Whenever a land enters the battlefield under your control, you may pay {G}{G}. If you do, you may have target creature you control get +2/+2 or gain hexproof until end of turn.</text>
+    <text>At the beginning of your end step, put a number of harmony counters on Varasa of the Hunt equal to your devotion to green.
+At the beginning of your upkeep, if there are 20 or more harmony counters on Varasa, remove all harmony counters on Varasa and create a 6/6 green Wurm creature token with haste.</text>
 </card>
 <card>
     <name>Logos, Empyreal Arbiter</name>
@@ -181,12 +183,13 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <text>{1}{R}, {T}, Exile a spell you control: Tunor, Windcaller deals 2 damage to target creature or player.</text>
 </card>
 <card>
-    <name>Aterprin the Shelterer</name>
+    <name>Caelan the Progenitor</name>
     <set num="16" picURL="">0LV</set>
     <color>GU</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a creature enters the battlefield under your control, if it didn't enter from the graveyard, each player puts a +1/+1 counter on target creature he or she controls.</text>
+    <text>Whenever you would draw a card, you may scry 2 instead.
+{2}{G}{U}, {T}: Reveal the top card of your library. If it's a creature card, you may put it into your hand.</text>
 </card>
 <card>
     <name>Bracwen, the Beguiler</name>
@@ -258,7 +261,7 @@ At the beginning of your end step, Eschaton deals 1 damage to you.</text>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever a card would be put into your graveyard from anywhere, exile it instead.
-{2}{B}, Pay X life: Return target nonland card exiled by The Bereft with converted mana cost X or less to your hand.</text>
+{2}{B}{B}, Pay X life: Return target nonland card exiled by The Bereft with converted mana cost X or less to your hand. Activate this ability only on your turn.</text>
 </card>
 <card>
     <name>Thyrus, Lineaologist</name>
@@ -314,6 +317,62 @@ At the beginning of your upkeep, if there are seven or more creature cards in yo
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text></text>
+</card>
+<card>
+    <name>Ashlyn, Dragon Cultist</name>
+    <set num="28" picURL="">0LV</set>
+	<related>Dragon  </related>
+    <color>BGR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature you control with power 4 or greater deals combat damage to a player, you may exile it. If you do, create a 4/4 red Dragon creature token with flying.</text>
+</card>
+<card>
+    <name>Cala, Mischief Seeker</name>
+    <set num="29" picURL="">0LV</set>
+	<related>Devil</related>
+    <color>UR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you draw your second card each turn, create a 1/1 red Devil creature token with "When this creature dies, it deals 1 damage to target creature or player."</text>
+</card>
+<card>
+    <name>Cecilia, Wingsteed Knight</name>
+    <set num="30" picURL="">0LV</set>
+	<related>Pegasus</related>
+    <color>W</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken creature enters the battlefield under your control, create a 1/1 white Pegasus creature token with flying.
+Whenever a nontoken creature you control dies, sacrifice a Pegasus.</text>
+</card>
+<card>
+	<name>Pegasus</name>
+    <set rarity="" muId="1" picURL="">0LV</set>
+	<color>W</color>
+	<type>Token Creature — Pegasus</type>
+	<pt>1/1</pt>
+	<tablerow>2</tablerow>
+	<token>1</token>
+	<text>Flying</text>
+</card>
+<card>
+    <name>Rowan, Animus Shaper</name>
+    <set num="31" picURL="">0LV</set>
+    <color>GR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Landfall — Whenever a land enters the battlefield under your control, put a charge counter on Rowan, Animus Shaper.
+{3}, {T}, Remove four charge counters from Rowan: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library. Activate this ability only as a sorcery.</text>
+</card>
+<card>
+    <name>Serena, Slave of Bolas</name>
+    <set num="32" picURL="">0LV</set>
+    <color>WBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{3}{B}{R}, {T}: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only as a sorcery.
+If a creature you control would be put into an opponent's graveyard, instead exile that card and you gain 2 life.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
