@@ -343,7 +343,7 @@ At the beginning of your upkeep, if there are seven or more creature cards in yo
     <color>W</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever a nontoken creature enters the battlefield under your control, create a 1/1 white Pegasus creature token with flying.
+    <text>Whenever a nontoken creature enters the battlefield under your control, you may pay {1}. If you do, create a 1/1 white Pegasus creature token with flying.
 Whenever a nontoken creature you control dies, sacrifice a Pegasus.</text>
 </card>
 <card>
