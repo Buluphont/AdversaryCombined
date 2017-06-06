@@ -198,7 +198,7 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>You may choose not to untap Bracwen, the Beguiler during your untap step.
-{T}: Put a verse counter on Bracwen.
+{U}, {T}: Put a verse counter on Bracwen.
 {2}{U}, {T}: Gain control of target creature with converted mana cost of X or less for as long as Bracwen remains tapped, where X is the number of verse counters on him.</text>
 </card>
 <card>
@@ -207,7 +207,7 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <color>GW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{X}{G}{W}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library. Sacrifice that permanent at end of turn.</text>
+    <text>{X}{X}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.</text>
 </card>
 <card>
     <name>Eschaton</name>
@@ -235,14 +235,14 @@ At the beginning of your end step, Eschaton deals 1 damage to you.</text>
     <color>RGW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever you attack with three or more creatures, create a 4/4 green Warrior creature token tapped and attacking. Exile it at end of combat.</text>
+    <text>Whenever you attack with three or more creatures, create a 3/3 green Warrior creature token tapped and attacking. Exile it at end of combat.</text>
 </card>
 <card>
 	<name>Warrior    </name>
     <set rarity="" muId="1" picURL="">0LV</set>
 	<color>G</color>
 	<type>Token Creature — Warrior</type>
-	<pt>4/4</pt>
+	<pt>3/3</pt>
 	<tablerow>2</tablerow>
 	<token>1</token>
 </card>
@@ -373,6 +373,15 @@ Whenever a nontoken creature you control dies, sacrifice a Pegasus.</text>
     <tablerow>1</tablerow>
     <text>{3}{B}{R}, {T}: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only as a sorcery.
 If a creature you control would be put into an opponent's graveyard, instead exile that card and you gain 2 life.</text>
+</card>
+<card>
+    <name>Iris, Nebelgast Recluse</name>
+    <set num="33" picURL="">0LV</set>
+    <color>UBR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>{1}{U}{B}{R}: Exile the top three cards of your library.
+{3},{T}, Discard a card: Cast an instant or sorcery card exiled by Iris, Nebelgast Recluse without paying its mana cost.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
