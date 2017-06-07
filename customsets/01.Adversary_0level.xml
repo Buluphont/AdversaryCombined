@@ -383,5 +383,14 @@ If a creature you control would be put into an opponent's graveyard, instead exi
     <text>{1}{U}{B}{R}: Exile the top three cards of your library.
 {3},{T}, Discard a card: Cast an instant or sorcery card exiled by Iris, Nebelgast Recluse without paying its mana cost.</text>
 </card>
+<card>
+    <name>Alluvin the Magnificent</name>
+    <set num="34" picURL="">0LV</set>
+    <color>WU</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a nontoken artifact you control enters the battlefield, put an innovation counter on Alluvin the Magnificent.
+Remove X innovation counters from Alluvin, {W}{U}, {T}: Create a token that’s a copy of target nontoken creature you control with a converted mana cost of X or less, except it’s an artifact creature with base power and toughness 1/1.</text>
+</card>
 </cards>
 </cockatrice_carddatabase>
