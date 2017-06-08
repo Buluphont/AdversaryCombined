@@ -371,8 +371,8 @@ Whenever a nontoken creature you control dies, sacrifice a Pegasus.</text>
     <color>WBR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{3}{B}{R}, {T}: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only as a sorcery.
-If a creature you control would be put into an opponent's graveyard, instead exile that card and you gain 2 life.</text>
+    <text>{1}{W}{B}, Sacrifice a creature: Scry 1. Each opponent loses 1 life. You gain life equal to twice the amount lost this way.
+If a creature you control would be put into an opponent's graveyard, you may discard a card. If you do, instead exile that card and you draw a card.</text>
 </card>
 <card>
     <name>Iris, Nebelgast Recluse</name>
