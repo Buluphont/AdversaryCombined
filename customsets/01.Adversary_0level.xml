@@ -113,7 +113,7 @@ Whenever a creature you control would be devoured, you may move all +1/+1 counte
     <name>Zhu Long, Jeskai Ascendant</name>
     <set picURL="">ADV</set>
     <set num="9" picURL="">0LV</set>
-    <color>URW</color>
+    <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{3}, {T}: The next instant or sorcery spell you cast from your hand this turn gains rebound. (Exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
@@ -207,7 +207,7 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <color>GW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{X}{X}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.</text>
+    <text>{X}{X}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library. Sacrifice that permanent at end of turn.</text>
 </card>
 <card>
     <name>Eschaton</name>
@@ -391,6 +391,23 @@ If a creature you control would be put into an opponent's graveyard, you may dis
     <tablerow>1</tablerow>
     <text>Whenever a nontoken artifact you control enters the battlefield, put an innovation counter on Alluvin the Magnificent.
 Remove X innovation counters from Alluvin, {W}{U}, {T}: Create a token that’s a copy of target nontoken creature you control with a converted mana cost of X or less, except it’s an artifact creature with base power and toughness 1/1.</text>
+</card>
+<card>
+    <name>Amdak-Shin, Soul Sifter</name>
+    <set num="35" picURL="">0LV</set>
+    <color>BG</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever a creature would be exiled you may pay {X}{B}{G}, where X is its converted mana cost. If you do, create a token that's a copy of that creature, except it's a Zombie in addition to its other types.</text>
+</card>
+<card>
+    <name>Ganshi, Swiftspear Magistrate</name>
+    <set num="36" picURL="">0LV</set>
+    <color>WUR</color>
+    <type>Adversary</type>
+    <tablerow>1</tablerow>
+    <text>Whenever you attack with three or more creature, spells you control cost {1} less during your combat phase.
+Whenever you cast a noncreature spell, creatures you control with no abilities gain +1/+1 until end of turn.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
