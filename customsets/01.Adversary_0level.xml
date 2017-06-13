@@ -207,7 +207,7 @@ Remove a blood counter from Marat: Target creature you control gets +1/+1 and ga
     <color>GW</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>{X}{X}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library. Sacrifice that permanent at end of turn.</text>
+    <text>{X}{W}, {T}: Search your library for an Aura or Equipment card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. If that card is an Equipment, attach it to a creature you control. Sacrifice that permanent at the beginning of the next end step.</text>
 </card>
 <card>
     <name>Eschaton</name>
