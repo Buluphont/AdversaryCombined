@@ -406,8 +406,7 @@ Remove X innovation counters from Alluvin, {W}{U}, {T}: Create a token that’s 
     <color>WUR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
-    <text>Whenever you attack with three or more creature, spells you control cost {1} less during your combat phase.
-Whenever you cast a noncreature spell, creatures you control with no abilities gain +1/+1 until end of turn.</text>
+    <text>Whenever you cast a noncreature spell, you may pay {1}. If you do, creatures you control with no abilities gain +1/+1 until end of turn.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
