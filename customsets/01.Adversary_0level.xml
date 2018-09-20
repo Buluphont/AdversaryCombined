@@ -165,14 +165,14 @@ At the beginning of your upkeep, if there are 20 or more harmony counters on Var
 • You gain 3 life.</text>
 </card>
 <card>
-    <name>Thansemi, Vis Collector</name>
+    <name>Marat, Vis Collector</name>
     <set num="14" picURL="">0LV</set>
     <color>UBR</color>
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>{U}{B}{R}, {T}: Tap target creature you don't control. It gets -1/-1 until end of turn and does not untap during its controller's next untap step.
-At the beginning of each opponent's upkeep, if they control one or more tapped creatures, put a blood counter on Thansemi, Vis Collector.
-Remove a blood counter from Thansemi: Target creature you control gets +1/+1 and gains haste until end of turn.</text>
+At the beginning of each opponent's upkeep, if they control one or more tapped creatures, put a blood counter on Marat, Vis Collector.
+Remove a blood counter from Marat: Target creature you control gets +1/+1 and gains haste until end of turn.</text>
 </card>
 <card>
     <name>Tunor, Windcaller</name>
@@ -407,23 +407,6 @@ Remove X innovation counters from Alluvin, {W}{U}, {T}: Create a token that’s 
     <type>Adversary</type>
     <tablerow>1</tablerow>
     <text>Whenever you cast a noncreature spell, you may pay {1}. If you do, creatures you control with no abilities gain +1/+1 until end of turn.</text>
-</card>
-<card>
-    <name>Entum, Seer of Metal</name>
-    <set num="37" picURL="">0LV</set>
-    <color>WUB</color>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>Whenever a nontoken creature you control dies, you may pay {X}{X}. If you do, search your library for an artifact with converted mana cost X or less and put it into your hand, then shuffle your library.</text>
-</card>
-<card>
-    <name>Eninxi, Font of Adaptation</name>
-    <set num="38" picURL="">0LV</set>
-    <color>GU</color>
-    <type>Adversary</type>
-    <tablerow>1</tablerow>
-    <text>All creatures have evolve. (Each instance of evolve triggers separately.)
-{U}: Target creature you control gets -1/+1 until end of turn.</text>
 </card>
 </cards>
 </cockatrice_carddatabase>
