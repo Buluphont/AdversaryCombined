@@ -55,7 +55,7 @@ Besides searching for their names, you can also use a Filtered search in Cockatr
 - RULE ONE: Adversaries are not permanents, but they can still tap for convenience.
 - RULE TWO: An Adversary's starting hand size is also considered their maximum hand size.
 - RULE THREE: All players have one free mulligan (a free mulligan means drawing a new starting hand without reducing your starting hand size).
-- RULE FOUR: Decks must contain a minimum of 61 cards, including your Adversary.
+- RULE FOUR: Decks must contain exactly 61 cards, including your Adversary, and may have up to 15 cards in the sideboard.
 - RULE FIVE: The format is Modern Singleton.
  
 - COMPREHENSIVE RULES
@@ -104,8 +104,8 @@ Playable VS. Range: 3-4 or multiple 2's.
 Level 5: Don't even try.
 Playable VS. Range: 5 or multiple 3-4's.
 
-# Main Set Adversary Previews
-http://imgur.com/a/rWHTk
+# Adversary Previews
+http://imgur.com/flCinNA
 
 # Supplemental Information
 [Generic Adversary Abilities for Draft](http://pastebin.com/4EhxRiah)
